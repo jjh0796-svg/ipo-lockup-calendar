@@ -1,0 +1,43 @@
+name: Update Lockup Calendar
+
+on:
+  schedule:
+    - cron: "40 21 * * *"  # 06:40 KST daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-calendar
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Build calendar
+        run: python build_calendar.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "lockup-calendar-bot"
+          git config user.email "actions@github.com"
+          git add events.json lockup.ics README.md
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Update lockup calendar ($(date -u +%Y-%m-%d))"
+            git push
+          fi
