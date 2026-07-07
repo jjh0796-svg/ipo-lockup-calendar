@@ -37,7 +37,7 @@
   "period": "2개월",
   "release_date": "2026-07-11",
   "tradable_date": "2026-07-13",
-  "ratio_pct": 18.47
+  "ratio_pct": 10.0
  },
  {
   "company": "폴레드",
@@ -77,7 +77,7 @@
   "period": "2개월",
   "release_date": "2026-07-20",
   "tradable_date": "2026-07-20",
-  "ratio_pct": 14.99
+  "ratio_pct": 11.37
  },
  {
   "company": "삼성스팩13호",
@@ -192,30 +192,6 @@
   "ratio_pct": 5.3
  },
  {
-  "company": "져스텍",
-  "listing_date": "2026-06-29",
-  "period": "2개월",
-  "release_date": "2026-08-29",
-  "tradable_date": "2026-08-31",
-  "ratio_pct": 6.39
- },
- {
-  "company": "스트라드비젼",
-  "listing_date": "2026-06-30",
-  "period": "2개월",
-  "release_date": "2026-08-30",
-  "tradable_date": "2026-08-31",
-  "ratio_pct": 1.48
- },
- {
-  "company": "매드업",
-  "listing_date": "2026-07-01",
-  "period": "2개월",
-  "release_date": "2026-09-01",
-  "tradable_date": "2026-09-01",
-  "ratio_pct": 2.25
- },
- {
   "company": "케이뱅크",
   "listing_date": "2026-03-05",
   "period": "6개월",
@@ -230,14 +206,6 @@
   "release_date": "2026-09-06",
   "tradable_date": "2026-09-07",
   "ratio_pct": 10.75
- },
- {
-  "company": "레몬헬스케어",
-  "listing_date": "2026-07-06",
-  "period": "2개월",
-  "release_date": "2026-09-06",
-  "tradable_date": "2026-09-07",
-  "ratio_pct": 0.68
  },
  {
   "company": "피스피스스튜디오",
@@ -261,7 +229,7 @@
   "period": "6개월",
   "release_date": "2026-09-16",
   "tradable_date": "2026-09-16",
-  "ratio_pct": 31.37
+  "ratio_pct": 4.65
  },
  {
   "company": "아이엠바이오로직스",
@@ -269,7 +237,7 @@
   "period": "6개월",
   "release_date": "2026-09-20",
   "tradable_date": "2026-09-21",
-  "ratio_pct": 35.17
+  "ratio_pct": 14.79
  },
  {
   "company": "한패스",
@@ -285,7 +253,7 @@
   "period": "6개월",
   "release_date": "2026-09-26",
   "tradable_date": "2026-09-28",
-  "ratio_pct": 41.17
+  "ratio_pct": 4.4
  },
  {
   "company": "엔에이치스팩33호",
@@ -336,20 +304,20 @@
   "ratio_pct": 6.37
  },
  {
-  "company": "인벤테라",
-  "listing_date": "2026-04-02",
-  "period": "6개월",
-  "release_date": "2026-10-02",
-  "tradable_date": "2026-10-02",
-  "ratio_pct": 41.24
- },
- {
   "company": "교보20호스팩",
   "listing_date": "2026-04-02",
   "period": "6개월",
   "release_date": "2026-10-02",
   "tradable_date": "2026-10-02",
   "ratio_pct": 9.55
+ },
+ {
+  "company": "인벤테라",
+  "listing_date": "2026-04-02",
+  "period": "6개월",
+  "release_date": "2026-10-02",
+  "tradable_date": "2026-10-02",
+  "ratio_pct": 2.79
  },
  {
   "company": "레몬헬스케어",
@@ -384,14 +352,6 @@
   "ratio_pct": 13.92
  },
  {
-  "company": "코스모로보틱스",
-  "listing_date": "2026-05-11",
-  "period": "6개월",
-  "release_date": "2026-11-11",
-  "tradable_date": "2026-11-11",
-  "ratio_pct": 37.69
- },
- {
   "company": "폴레드",
   "listing_date": "2026-05-14",
   "period": "6개월",
@@ -405,7 +365,7 @@
   "period": "6개월",
   "release_date": "2026-11-20",
   "tradable_date": "2026-11-20",
-  "ratio_pct": 44.91
+  "ratio_pct": 13.71
  },
  {
   "company": "대신밸런스제20호스팩",
@@ -440,20 +400,20 @@
   "ratio_pct": 1.59
  },
  {
-  "company": "스트라드비젼",
-  "listing_date": "2026-06-30",
-  "period": "6개월",
-  "release_date": "2026-12-30",
-  "tradable_date": "2026-12-30",
-  "ratio_pct": 51.93
- },
- {
   "company": "한국제16호스팩",
   "listing_date": "2026-06-30",
   "period": "6개월",
   "release_date": "2026-12-30",
   "tradable_date": "2026-12-30",
   "ratio_pct": 21.47
+ },
+ {
+  "company": "스트라드비젼",
+  "listing_date": "2026-06-30",
+  "period": "6개월",
+  "release_date": "2026-12-30",
+  "tradable_date": "2026-12-30",
+  "ratio_pct": 2.39
  },
  {
   "company": "매드업",
@@ -469,6 +429,6 @@
   "period": "6개월",
   "release_date": "2027-01-06",
   "tradable_date": "2027-01-06",
-  "ratio_pct": 30.22
+  "ratio_pct": 2.22
  }
 ]

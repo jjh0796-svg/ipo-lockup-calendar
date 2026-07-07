@@ -102,9 +102,18 @@ def extract_listing_date(page_text: str) -> date | None:
 
 
 def normalize_period_label(text: str) -> str | None:
-    cleaned = _normalize_space(text).replace(" ", "")
-    match = re.search(r"(15일|1개월|2개월|3개월|6개월)", cleaned)
-    return match.group(1) if match else None
+    value = _normalize_space(text)
+    if not value:
+        return None
+    if "15일" in value:
+        return "15일"
+    # 숫자 전체를 읽어야 "12개월"이 "2개월"로 오인되지 않는다.
+    match = re.search(r"(\d+)\s*개월", value)
+    if match:
+        label = f"{int(match.group(1))}개월"
+        if label in PERIOD_OFFSETS:
+            return label
+    return None
 
 
 def parse_period_ratios(soup: BeautifulSoup) -> dict[str, float]:
