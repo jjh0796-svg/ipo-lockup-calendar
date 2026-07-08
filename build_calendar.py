@@ -24,12 +24,12 @@ def build_ics(events: list[LockupEvent], generated_at: datetime) -> str:
     ]
     stamp = generated_at.strftime("%Y%m%dT%H%M%SZ")
     for event in events:
-        release = date.fromisoformat(event.release_date)
-        summary = f"🔓 {event.company} {event.period} 락업해제 ({event.ratio_pct:.1f}%)"
+        release = date.fromisoformat(event.tradable_date)  # 캘린더 표시는 매도가능일 기준
+        summary = f"🔓 {event.company} {event.period} 락업해제 매도가능 ({event.ratio_pct:.1f}%)"
         description = (
-            f"상장일 {event.listing_date} + {event.period} 확약 만료\\n"
+            f"확약 만기일: {event.release_date} (상장일 {event.listing_date} + {event.period})\\n"
             f"해제 지분율: 공모 후 {event.ratio_pct:.2f}%\\n"
-            f"매도 가능(추정): {event.tradable_date}"
+            f"매도 가능(추정): {event.tradable_date} — 예탁원 처리에 따라 ±1영업일 차이 가능"
         )
         uid = f"{event.company}-{event.listing_date}-{event.period}@ipo-lockup-calendar"
         lines.extend(
@@ -50,7 +50,7 @@ def build_ics(events: list[LockupEvent], generated_at: datetime) -> str:
 
 def build_readme(events: list[LockupEvent], generated_at: datetime) -> str:
     today = generated_at.astimezone(KST).date()
-    upcoming = [e for e in events if today <= date.fromisoformat(e.release_date) <= today + timedelta(days=30)]
+    upcoming = [e for e in events if today <= date.fromisoformat(e.tradable_date) <= today + timedelta(days=30)]
     lines = [
         "# IPO 락업(의무보유확약) 해제 캘린더",
         "",
@@ -63,21 +63,21 @@ def build_readme(events: list[LockupEvent], generated_at: datetime) -> str:
         "",
         "## 향후 30일 해제 일정",
         "",
-        "| 해제일 | 종목 | 기간 | 해제 지분율 | 상장일 |",
-        "|--------|------|------|------------|--------|",
+        "| 매도가능일 | 종목 | 기간 | 해제 지분율 | 확약만기 | 상장일 |",
+        "|-----------|------|------|------------|---------|--------|",
     ]
     for event in upcoming:
-        release = date.fromisoformat(event.release_date)
-        label = f"{release.strftime('%m/%d')}({WEEKDAYS[release.weekday()]})"
+        tradable = date.fromisoformat(event.tradable_date)
+        label = f"{tradable.strftime('%m/%d')}({WEEKDAYS[tradable.weekday()]})"
         lines.append(
-            f"| {label} | {event.company} | {event.period} | {event.ratio_pct:.2f}% | {event.listing_date} |"
+            f"| {label} | {event.company} | {event.period} | {event.ratio_pct:.2f}% | {event.release_date} | {event.listing_date} |"
         )
     if not upcoming:
         lines.append("| - | 30일 이내 해제 예정 없음 | | | |")
     lines.extend(
         [
             "",
-            "- 해제일 = 상장일 + 확약기간 (달력 기준). 주말이면 다음 평일부터 매도 가능.",
+            "- 매도가능일 = 확약만기(상장일+기간)가 주말이면 다음 평일. 예탁원 처리에 따라 ±1영업일 차이 가능.",
             "- 출처: ipostock.co.kr 공개 페이지. 개인 투자 참고용이며 정확성을 보장하지 않습니다.",
         ]
     )
