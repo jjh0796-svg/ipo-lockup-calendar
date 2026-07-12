@@ -80,6 +80,14 @@
   "ratio_pct": 0.07
  },
  {
+  "company": "레메디",
+  "listing_date": "2026-07-13",
+  "period": "15일",
+  "release_date": "2026-07-28",
+  "tradable_date": "2026-07-28",
+  "ratio_pct": 3.29
+ },
+ {
   "company": "져스텍",
   "listing_date": "2026-06-29",
   "period": "1개월",
@@ -152,6 +160,14 @@
   "ratio_pct": 0.93
  },
  {
+  "company": "레메디",
+  "listing_date": "2026-07-13",
+  "period": "1개월",
+  "release_date": "2026-08-13",
+  "tradable_date": "2026-08-13",
+  "ratio_pct": 5.5
+ },
+ {
   "company": "폴레드",
   "listing_date": "2026-05-14",
   "period": "3개월",
@@ -198,6 +214,14 @@
   "release_date": "2026-09-09",
   "tradable_date": "2026-09-09",
   "ratio_pct": 8.83
+ },
+ {
+  "company": "레메디",
+  "listing_date": "2026-07-13",
+  "period": "2개월",
+  "release_date": "2026-09-13",
+  "tradable_date": "2026-09-14",
+  "ratio_pct": 0.17
  },
  {
   "company": "카나프테라퓨틱스",
@@ -304,6 +328,14 @@
   "ratio_pct": 17.58
  },
  {
+  "company": "레메디",
+  "listing_date": "2026-07-13",
+  "period": "3개월",
+  "release_date": "2026-10-13",
+  "tradable_date": "2026-10-13",
+  "ratio_pct": 12.3
+ },
+ {
   "company": "키움히어로제2호스팩",
   "listing_date": "2026-04-23",
   "period": "6개월",
@@ -406,5 +438,13 @@
   "release_date": "2027-01-06",
   "tradable_date": "2027-01-06",
   "ratio_pct": 2.22
+ },
+ {
+  "company": "레메디",
+  "listing_date": "2026-07-13",
+  "period": "6개월",
+  "release_date": "2027-01-13",
+  "tradable_date": "2027-01-13",
+  "ratio_pct": 0.85
  }
 ]
