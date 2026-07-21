@@ -1,21 +1,5 @@
 [
  {
-  "company": "폴레드",
-  "listing_date": "2026-05-14",
-  "period": "2개월",
-  "release_date": "2026-07-14",
-  "tradable_date": "2026-07-14",
-  "ratio_pct": 13.28
- },
- {
-  "company": "져스텍",
-  "listing_date": "2026-06-29",
-  "period": "15일",
-  "release_date": "2026-07-14",
-  "tradable_date": "2026-07-14",
-  "ratio_pct": 1.5
- },
- {
   "company": "스트라드비젼",
   "listing_date": "2026-06-30",
   "period": "15일",
