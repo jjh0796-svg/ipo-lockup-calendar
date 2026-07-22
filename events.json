@@ -1,13 +1,5 @@
 [
  {
-  "company": "스트라드비젼",
-  "listing_date": "2026-06-30",
-  "period": "15일",
-  "release_date": "2026-07-15",
-  "tradable_date": "2026-07-15",
-  "ratio_pct": 0.36
- },
- {
   "company": "매드업",
   "listing_date": "2026-07-01",
   "period": "15일",
