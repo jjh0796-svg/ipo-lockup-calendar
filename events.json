@@ -1,13 +1,5 @@
 [
  {
-  "company": "매드업",
-  "listing_date": "2026-07-01",
-  "period": "15일",
-  "release_date": "2026-07-16",
-  "tradable_date": "2026-07-16",
-  "ratio_pct": 2.6
- },
- {
   "company": "마키나락스",
   "listing_date": "2026-05-20",
   "period": "2개월",
@@ -104,6 +96,14 @@
   "ratio_pct": 17.82
  },
  {
+  "company": "에이치엘지노믹스",
+  "listing_date": "2026-07-24",
+  "period": "15일",
+  "release_date": "2026-08-08",
+  "tradable_date": "2026-08-10",
+  "ratio_pct": 5.41
+ },
+ {
   "company": "피스피스스튜디오",
   "listing_date": "2026-06-08",
   "period": "2개월",
@@ -142,6 +142,14 @@
   "release_date": "2026-08-20",
   "tradable_date": "2026-08-20",
   "ratio_pct": 5.3
+ },
+ {
+  "company": "에이치엘지노믹스",
+  "listing_date": "2026-07-24",
+  "period": "1개월",
+  "release_date": "2026-08-24",
+  "tradable_date": "2026-08-24",
+  "ratio_pct": 0.12
  },
  {
   "company": "케이뱅크",
@@ -304,6 +312,14 @@
   "ratio_pct": 5.02
  },
  {
+  "company": "에이치엘지노믹스",
+  "listing_date": "2026-07-24",
+  "period": "3개월",
+  "release_date": "2026-10-24",
+  "tradable_date": "2026-10-26",
+  "ratio_pct": 0.13
+ },
+ {
   "company": "채비",
   "listing_date": "2026-04-29",
   "period": "6개월",
@@ -406,5 +422,13 @@
   "release_date": "2027-01-13",
   "tradable_date": "2027-01-13",
   "ratio_pct": 0.85
+ },
+ {
+  "company": "에이치엘지노믹스",
+  "listing_date": "2026-07-24",
+  "period": "6개월",
+  "release_date": "2027-01-24",
+  "tradable_date": "2027-01-25",
+  "ratio_pct": 2.91
  }
 ]
