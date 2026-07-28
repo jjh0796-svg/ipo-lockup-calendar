@@ -1,21 +1,5 @@
 [
  {
-  "company": "삼성스팩13호",
-  "listing_date": "2026-01-21",
-  "period": "6개월",
-  "release_date": "2026-07-21",
-  "tradable_date": "2026-07-21",
-  "ratio_pct": 18.36
- },
- {
-  "company": "레몬헬스케어",
-  "listing_date": "2026-07-06",
-  "period": "15일",
-  "release_date": "2026-07-21",
-  "tradable_date": "2026-07-21",
-  "ratio_pct": 5.42
- },
- {
   "company": "키움히어로제2호스팩",
   "listing_date": "2026-04-23",
   "period": "3개월",
