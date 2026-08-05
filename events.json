@@ -1,21 +1,5 @@
 [
  {
-  "company": "져스텍",
-  "listing_date": "2026-06-29",
-  "period": "1개월",
-  "release_date": "2026-07-29",
-  "tradable_date": "2026-07-29",
-  "ratio_pct": 14.11
- },
- {
-  "company": "채비",
-  "listing_date": "2026-04-29",
-  "period": "3개월",
-  "release_date": "2026-07-29",
-  "tradable_date": "2026-07-29",
-  "ratio_pct": 0.06
- },
- {
   "company": "덕양에너젠",
   "listing_date": "2026-01-30",
   "period": "6개월",
