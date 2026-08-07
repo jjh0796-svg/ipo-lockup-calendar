@@ -1,29 +1,5 @@
 [
  {
-  "company": "덕양에너젠",
-  "listing_date": "2026-01-30",
-  "period": "6개월",
-  "release_date": "2026-07-30",
-  "tradable_date": "2026-07-30",
-  "ratio_pct": 27.92
- },
- {
-  "company": "신한제18호스팩",
-  "listing_date": "2026-04-30",
-  "period": "3개월",
-  "release_date": "2026-07-30",
-  "tradable_date": "2026-07-30",
-  "ratio_pct": 1.26
- },
- {
-  "company": "스트라드비젼",
-  "listing_date": "2026-06-30",
-  "period": "1개월",
-  "release_date": "2026-07-30",
-  "tradable_date": "2026-07-30",
-  "ratio_pct": 0.41
- },
- {
   "company": "매드업",
   "listing_date": "2026-07-01",
   "period": "1개월",
