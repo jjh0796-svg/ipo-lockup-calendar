@@ -96,6 +96,14 @@
   "ratio_pct": 8.83
  },
  {
+  "company": "딜리셔스",
+  "listing_date": "2026-08-12",
+  "period": "1개월",
+  "release_date": "2026-09-12",
+  "tradable_date": "2026-09-14",
+  "ratio_pct": 10.52
+ },
+ {
   "company": "레메디",
   "listing_date": "2026-07-13",
   "period": "2개월",
@@ -208,6 +216,14 @@
   "ratio_pct": 17.58
  },
  {
+  "company": "딜리셔스",
+  "listing_date": "2026-08-12",
+  "period": "2개월",
+  "release_date": "2026-10-12",
+  "tradable_date": "2026-10-12",
+  "ratio_pct": 10.47
+ },
+ {
   "company": "레메디",
   "listing_date": "2026-07-13",
   "period": "3개월",
@@ -246,6 +262,14 @@
   "release_date": "2026-10-30",
   "tradable_date": "2026-10-30",
   "ratio_pct": 13.92
+ },
+ {
+  "company": "딜리셔스",
+  "listing_date": "2026-08-12",
+  "period": "3개월",
+  "release_date": "2026-11-12",
+  "tradable_date": "2026-11-12",
+  "ratio_pct": 11.11
  },
  {
   "company": "폴레드",
@@ -342,5 +366,13 @@
   "release_date": "2027-01-24",
   "tradable_date": "2027-01-25",
   "ratio_pct": 2.91
+ },
+ {
+  "company": "딜리셔스",
+  "listing_date": "2026-08-12",
+  "period": "6개월",
+  "release_date": "2027-02-12",
+  "tradable_date": "2027-02-12",
+  "ratio_pct": 2.85
  }
 ]
