@@ -1,21 +1,5 @@
 [
  {
-  "company": "에이치엘지노믹스",
-  "listing_date": "2026-07-24",
-  "period": "15일",
-  "release_date": "2026-08-08",
-  "tradable_date": "2026-08-10",
-  "ratio_pct": 5.41
- },
- {
-  "company": "피스피스스튜디오",
-  "listing_date": "2026-06-08",
-  "period": "2개월",
-  "release_date": "2026-08-08",
-  "tradable_date": "2026-08-10",
-  "ratio_pct": 4.99
- },
- {
   "company": "코스모로보틱스",
   "listing_date": "2026-05-11",
   "period": "3개월",
