@@ -5,7 +5,7 @@
 **구글캘린더 구독**: 캘린더 → 다른 캘린더 추가 → URL로 추가 →
 `https://raw.githubusercontent.com/jjh0796-svg/ipo-lockup-calendar/main/lockup.ics`
 
-_마지막 갱신: 2026-08-17 06:54 KST_
+_마지막 갱신: 2026-08-18 06:57 KST_
 
 ## 향후 30일 해제 일정
 

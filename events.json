@@ -104,6 +104,14 @@
   "ratio_pct": 4.65
  },
  {
+  "company": "인제니아테라퓨틱스",
+  "listing_date": "2026-08-18",
+  "period": "1개월",
+  "release_date": "2026-09-18",
+  "tradable_date": "2026-09-18",
+  "ratio_pct": 32.95
+ },
+ {
   "company": "아이엠바이오로직스",
   "listing_date": "2026-03-20",
   "period": "6개월",
@@ -272,6 +280,14 @@
   "ratio_pct": 1.92
  },
  {
+  "company": "인제니아테라퓨틱스",
+  "listing_date": "2026-08-18",
+  "period": "3개월",
+  "release_date": "2026-11-18",
+  "tradable_date": "2026-11-18",
+  "ratio_pct": 4.42
+ },
+ {
   "company": "마키나락스",
   "listing_date": "2026-05-20",
   "period": "6개월",
@@ -366,5 +382,13 @@
   "release_date": "2027-02-12",
   "tradable_date": "2027-02-12",
   "ratio_pct": 2.85
+ },
+ {
+  "company": "인제니아테라퓨틱스",
+  "listing_date": "2026-08-18",
+  "period": "6개월",
+  "release_date": "2027-02-18",
+  "tradable_date": "2027-02-18",
+  "ratio_pct": 1.24
  }
 ]
