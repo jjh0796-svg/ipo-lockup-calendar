@@ -32,6 +32,14 @@
   "ratio_pct": 10.75
  },
  {
+  "company": "니어스랩",
+  "listing_date": "2026-08-24",
+  "period": "15일",
+  "release_date": "2026-09-08",
+  "tradable_date": "2026-09-08",
+  "ratio_pct": 12.12
+ },
+ {
   "company": "피스피스스튜디오",
   "listing_date": "2026-06-08",
   "period": "3개월",
@@ -94,6 +102,14 @@
   "release_date": "2026-09-20",
   "tradable_date": "2026-09-21",
   "ratio_pct": 14.79
+ },
+ {
+  "company": "니어스랩",
+  "listing_date": "2026-08-24",
+  "period": "1개월",
+  "release_date": "2026-09-24",
+  "tradable_date": "2026-09-24",
+  "ratio_pct": 10.72
  },
  {
   "company": "한패스",
@@ -208,6 +224,14 @@
   "ratio_pct": 5.02
  },
  {
+  "company": "니어스랩",
+  "listing_date": "2026-08-24",
+  "period": "2개월",
+  "release_date": "2026-10-24",
+  "tradable_date": "2026-10-26",
+  "ratio_pct": 8.05
+ },
+ {
   "company": "에이치엘지노믹스",
   "listing_date": "2026-07-24",
   "period": "3개월",
@@ -270,6 +294,14 @@
   "release_date": "2026-11-20",
   "tradable_date": "2026-11-20",
   "ratio_pct": 13.71
+ },
+ {
+  "company": "니어스랩",
+  "listing_date": "2026-08-24",
+  "period": "3개월",
+  "release_date": "2026-11-24",
+  "tradable_date": "2026-11-24",
+  "ratio_pct": 13.96
  },
  {
   "company": "대신밸런스제20호스팩",
@@ -374,5 +406,13 @@
   "release_date": "2027-02-21",
   "tradable_date": "2027-02-22",
   "ratio_pct": 9.06
+ },
+ {
+  "company": "니어스랩",
+  "listing_date": "2026-08-24",
+  "period": "6개월",
+  "release_date": "2027-02-24",
+  "tradable_date": "2027-02-24",
+  "ratio_pct": 0.46
  }
 ]
