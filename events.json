@@ -56,6 +56,14 @@
   "ratio_pct": 8.83
  },
  {
+  "company": "해치텍",
+  "listing_date": "2026-08-25",
+  "period": "15일",
+  "release_date": "2026-09-09",
+  "tradable_date": "2026-09-09",
+  "ratio_pct": 0.58
+ },
+ {
   "company": "딜리셔스",
   "listing_date": "2026-08-12",
   "period": "1개월",
@@ -110,6 +118,14 @@
   "release_date": "2026-09-24",
   "tradable_date": "2026-09-24",
   "ratio_pct": 10.72
+ },
+ {
+  "company": "해치텍",
+  "listing_date": "2026-08-25",
+  "period": "1개월",
+  "release_date": "2026-09-25",
+  "tradable_date": "2026-09-25",
+  "ratio_pct": 9.91
  },
  {
   "company": "한패스",
@@ -302,6 +318,14 @@
   "release_date": "2026-11-24",
   "tradable_date": "2026-11-24",
   "ratio_pct": 13.96
+ },
+ {
+  "company": "해치텍",
+  "listing_date": "2026-08-25",
+  "period": "3개월",
+  "release_date": "2026-11-25",
+  "tradable_date": "2026-11-25",
+  "ratio_pct": 2.85
  },
  {
   "company": "대신밸런스제20호스팩",
