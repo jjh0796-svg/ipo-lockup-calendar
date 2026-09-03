@@ -88,6 +88,14 @@
   "ratio_pct": 32.95
  },
  {
+  "company": "스카이랩스",
+  "listing_date": "2026-09-04",
+  "period": "15일",
+  "release_date": "2026-09-19",
+  "tradable_date": "2026-09-21",
+  "ratio_pct": 0.05
+ },
+ {
   "company": "아이엠바이오로직스",
   "listing_date": "2026-03-20",
   "period": "6개월",
@@ -192,6 +200,14 @@
   "ratio_pct": 2.79
  },
  {
+  "company": "스카이랩스",
+  "listing_date": "2026-09-04",
+  "period": "1개월",
+  "release_date": "2026-10-04",
+  "tradable_date": "2026-10-05",
+  "ratio_pct": 24.03
+ },
+ {
   "company": "레몬헬스케어",
   "listing_date": "2026-07-06",
   "period": "3개월",
@@ -256,6 +272,14 @@
   "ratio_pct": 13.92
  },
  {
+  "company": "스카이랩스",
+  "listing_date": "2026-09-04",
+  "period": "2개월",
+  "release_date": "2026-11-04",
+  "tradable_date": "2026-11-04",
+  "ratio_pct": 3.23
+ },
+ {
   "company": "딜리셔스",
   "listing_date": "2026-08-12",
   "period": "3개월",
@@ -310,6 +334,14 @@
   "release_date": "2026-11-25",
   "tradable_date": "2026-11-25",
   "ratio_pct": 2.85
+ },
+ {
+  "company": "스카이랩스",
+  "listing_date": "2026-09-04",
+  "period": "3개월",
+  "release_date": "2026-12-04",
+  "tradable_date": "2026-12-04",
+  "ratio_pct": 22.24
  },
  {
   "company": "대신밸런스제20호스팩",
