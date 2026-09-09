@@ -360,6 +360,14 @@
   "ratio_pct": 5.67
  },
  {
+  "company": "엔에이치스팩34호",
+  "listing_date": "2026-09-10",
+  "period": "3개월",
+  "release_date": "2026-12-10",
+  "tradable_date": "2026-12-10",
+  "ratio_pct": 3.87
+ },
+ {
   "company": "메리츠제2호스팩",
   "listing_date": "2026-06-19",
   "period": "6개월",
@@ -454,5 +462,13 @@
   "release_date": "2027-02-24",
   "tradable_date": "2027-02-24",
   "ratio_pct": 0.46
+ },
+ {
+  "company": "엔에이치스팩34호",
+  "listing_date": "2026-09-10",
+  "period": "6개월",
+  "release_date": "2027-03-10",
+  "tradable_date": "2027-03-10",
+  "ratio_pct": 6.08
  }
 ]
