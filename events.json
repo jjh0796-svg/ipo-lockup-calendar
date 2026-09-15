@@ -1,21 +1,5 @@
 [
  {
-  "company": "니어스랩",
-  "listing_date": "2026-08-24",
-  "period": "15일",
-  "release_date": "2026-09-08",
-  "tradable_date": "2026-09-08",
-  "ratio_pct": 12.12
- },
- {
-  "company": "피스피스스튜디오",
-  "listing_date": "2026-06-08",
-  "period": "3개월",
-  "release_date": "2026-09-08",
-  "tradable_date": "2026-09-08",
-  "ratio_pct": 2.49
- },
- {
   "company": "액스비스",
   "listing_date": "2026-03-09",
   "period": "6개월",
