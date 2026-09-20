@@ -1,21 +1,5 @@
 [
  {
-  "company": "케이앤에스아이앤씨",
-  "listing_date": "2026-08-13",
-  "period": "1개월",
-  "release_date": "2026-09-13",
-  "tradable_date": "2026-09-14",
-  "ratio_pct": 9.81
- },
- {
-  "company": "레메디",
-  "listing_date": "2026-07-13",
-  "period": "2개월",
-  "release_date": "2026-09-13",
-  "tradable_date": "2026-09-14",
-  "ratio_pct": 0.17
- },
- {
   "company": "카나프테라퓨틱스",
   "listing_date": "2026-03-16",
   "period": "6개월",
@@ -160,6 +144,14 @@
   "ratio_pct": 17.58
  },
  {
+  "company": "네오사피엔스",
+  "listing_date": "2026-09-21",
+  "period": "15일",
+  "release_date": "2026-10-06",
+  "tradable_date": "2026-10-06",
+  "ratio_pct": 5.41
+ },
+ {
   "company": "딜리셔스",
   "listing_date": "2026-08-12",
   "period": "2개월",
@@ -174,6 +166,14 @@
   "release_date": "2026-10-13",
   "tradable_date": "2026-10-13",
   "ratio_pct": 12.3
+ },
+ {
+  "company": "네오사피엔스",
+  "listing_date": "2026-09-21",
+  "period": "1개월",
+  "release_date": "2026-10-21",
+  "tradable_date": "2026-10-21",
+  "ratio_pct": 8.41
  },
  {
   "company": "키움히어로제2호스팩",
@@ -264,6 +264,14 @@
   "ratio_pct": 13.71
  },
  {
+  "company": "네오사피엔스",
+  "listing_date": "2026-09-21",
+  "period": "2개월",
+  "release_date": "2026-11-21",
+  "tradable_date": "2026-11-23",
+  "ratio_pct": 9.38
+ },
+ {
   "company": "니어스랩",
   "listing_date": "2026-08-24",
   "period": "3개월",
@@ -318,6 +326,14 @@
   "release_date": "2026-12-19",
   "tradable_date": "2026-12-21",
   "ratio_pct": 3.31
+ },
+ {
+  "company": "네오사피엔스",
+  "listing_date": "2026-09-21",
+  "period": "3개월",
+  "release_date": "2026-12-21",
+  "tradable_date": "2026-12-21",
+  "ratio_pct": 15.2
  },
  {
   "company": "져스텍",
