@@ -336,6 +336,14 @@
   "ratio_pct": 15.2
  },
  {
+  "company": "한국제17호스팩",
+  "listing_date": "2026-09-22",
+  "period": "3개월",
+  "release_date": "2026-12-22",
+  "tradable_date": "2026-12-22",
+  "ratio_pct": 0.06
+ },
+ {
   "company": "져스텍",
   "listing_date": "2026-06-29",
   "period": "6개월",
@@ -430,5 +438,21 @@
   "release_date": "2027-03-10",
   "tradable_date": "2027-03-10",
   "ratio_pct": 6.08
+ },
+ {
+  "company": "한국제17호스팩",
+  "listing_date": "2026-09-22",
+  "period": "6개월",
+  "release_date": "2027-03-22",
+  "tradable_date": "2027-03-22",
+  "ratio_pct": 19.53
+ },
+ {
+  "company": "케이비제34호스팩",
+  "listing_date": "2026-09-22",
+  "period": "6개월",
+  "release_date": "2027-03-22",
+  "tradable_date": "2027-03-22",
+  "ratio_pct": 2.91
  }
 ]
