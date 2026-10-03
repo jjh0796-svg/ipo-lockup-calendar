@@ -1,21 +1,5 @@
 [
  {
-  "company": "해치텍",
-  "listing_date": "2026-08-25",
-  "period": "1개월",
-  "release_date": "2026-09-25",
-  "tradable_date": "2026-09-25",
-  "ratio_pct": 9.91
- },
- {
-  "company": "한패스",
-  "listing_date": "2026-03-25",
-  "period": "6개월",
-  "release_date": "2026-09-25",
-  "tradable_date": "2026-09-25",
-  "ratio_pct": 9.69
- },
- {
   "company": "메쥬",
   "listing_date": "2026-03-26",
   "period": "6개월",
