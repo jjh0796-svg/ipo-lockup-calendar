@@ -5,7 +5,8 @@
   "period": "3개월",
   "release_date": "2026-09-29",
   "tradable_date": "2026-09-29",
-  "ratio_pct": 3.38
+  "ratio_pct": 3.38,
+  "shares": 407161
  },
  {
   "company": "리센스메디컬",
@@ -13,7 +14,8 @@
   "period": "6개월",
   "release_date": "2026-09-30",
   "tradable_date": "2026-09-30",
-  "ratio_pct": 3.04
+  "ratio_pct": 3.04,
+  "shares": 329994
  },
  {
   "company": "스트라드비젼",
@@ -21,7 +23,8 @@
   "period": "3개월",
   "release_date": "2026-09-30",
   "tradable_date": "2026-09-30",
-  "ratio_pct": 0.19
+  "ratio_pct": 0.19,
+  "shares": 99250
  },
  {
   "company": "매드업",
@@ -29,7 +32,8 @@
   "period": "3개월",
   "release_date": "2026-10-01",
   "tradable_date": "2026-10-01",
-  "ratio_pct": 12.54
+  "ratio_pct": 12.54,
+  "shares": 2350612
  },
  {
   "company": "신한제17호스팩",
@@ -37,7 +41,8 @@
   "period": "6개월",
   "release_date": "2026-10-01",
   "tradable_date": "2026-10-01",
-  "ratio_pct": 6.37
+  "ratio_pct": 6.37,
+  "shares": 340000
  },
  {
   "company": "교보20호스팩",
@@ -45,7 +50,8 @@
   "period": "6개월",
   "release_date": "2026-10-02",
   "tradable_date": "2026-10-02",
-  "ratio_pct": 9.55
+  "ratio_pct": 9.55,
+  "shares": 570000
  },
  {
   "company": "인벤테라",
@@ -53,7 +59,8 @@
   "period": "6개월",
   "release_date": "2026-10-02",
   "tradable_date": "2026-10-02",
-  "ratio_pct": 2.79
+  "ratio_pct": 2.79,
+  "shares": 219430
  },
  {
   "company": "스카이랩스",
@@ -61,7 +68,8 @@
   "period": "1개월",
   "release_date": "2026-10-04",
   "tradable_date": "2026-10-05",
-  "ratio_pct": 24.03
+  "ratio_pct": 24.03,
+  "shares": 4502203
  },
  {
   "company": "레몬헬스케어",
@@ -69,7 +77,8 @@
   "period": "3개월",
   "release_date": "2026-10-06",
   "tradable_date": "2026-10-06",
-  "ratio_pct": 17.58
+  "ratio_pct": 17.58,
+  "shares": 2347012
  },
  {
   "company": "네오사피엔스",
@@ -77,7 +86,8 @@
   "period": "15일",
   "release_date": "2026-10-06",
   "tradable_date": "2026-10-06",
-  "ratio_pct": 5.41
+  "ratio_pct": 5.41,
+  "shares": 660322
  },
  {
   "company": "와이즈플래닛컴퍼니",
@@ -85,7 +95,8 @@
   "period": "15일",
   "release_date": "2026-10-08",
   "tradable_date": "2026-10-08",
-  "ratio_pct": 5.43
+  "ratio_pct": 5.43,
+  "shares": 543406
  },
  {
   "company": "딜리셔스",
@@ -93,7 +104,8 @@
   "period": "2개월",
   "release_date": "2026-10-12",
   "tradable_date": "2026-10-12",
-  "ratio_pct": 10.47
+  "ratio_pct": 10.47,
+  "shares": 2289279
  },
  {
   "company": "레메디",
@@ -101,7 +113,8 @@
   "period": "3개월",
   "release_date": "2026-10-13",
   "tradable_date": "2026-10-13",
-  "ratio_pct": 12.3
+  "ratio_pct": 12.3,
+  "shares": 937898
  },
  {
   "company": "글로벌테크놀로지",
@@ -109,7 +122,8 @@
   "period": "15일",
   "release_date": "2026-10-14",
   "tradable_date": "2026-10-14",
-  "ratio_pct": 5.06
+  "ratio_pct": 5.06,
+  "shares": 990000
  },
  {
   "company": "빅웨이브로보틱스",
@@ -117,7 +131,8 @@
   "period": "15일",
   "release_date": "2026-10-14",
   "tradable_date": "2026-10-14",
-  "ratio_pct": 3.03
+  "ratio_pct": 3.03,
+  "shares": 311650
  },
  {
   "company": "덕산넵코어스",
@@ -125,7 +140,8 @@
   "period": "15일",
   "release_date": "2026-10-15",
   "tradable_date": "2026-10-15",
-  "ratio_pct": 3.38
+  "ratio_pct": 3.38,
+  "shares": 638253
  },
  {
   "company": "브릴스",
@@ -133,7 +149,8 @@
   "period": "15일",
   "release_date": "2026-10-16",
   "tradable_date": "2026-10-16",
-  "ratio_pct": 2.82
+  "ratio_pct": 2.82,
+  "shares": 320765
  },
  {
   "company": "네오사피엔스",
@@ -141,7 +158,8 @@
   "period": "1개월",
   "release_date": "2026-10-21",
   "tradable_date": "2026-10-21",
-  "ratio_pct": 8.41
+  "ratio_pct": 8.41,
+  "shares": 1025700
  },
  {
   "company": "키움히어로제2호스팩",
@@ -149,7 +167,8 @@
   "period": "6개월",
   "release_date": "2026-10-23",
   "tradable_date": "2026-10-23",
-  "ratio_pct": 5.02
+  "ratio_pct": 5.02,
+  "shares": 317000
  },
  {
   "company": "와이즈플래닛컴퍼니",
@@ -157,7 +176,8 @@
   "period": "1개월",
   "release_date": "2026-10-23",
   "tradable_date": "2026-10-23",
-  "ratio_pct": 0.07
+  "ratio_pct": 0.07,
+  "shares": 7223
  },
  {
   "company": "니어스랩",
@@ -165,7 +185,8 @@
   "period": "2개월",
   "release_date": "2026-10-24",
   "tradable_date": "2026-10-26",
-  "ratio_pct": 8.05
+  "ratio_pct": 8.05,
+  "shares": 464331
  },
  {
   "company": "에이치엘지노믹스",
@@ -173,7 +194,8 @@
   "period": "3개월",
   "release_date": "2026-10-24",
   "tradable_date": "2026-10-26",
-  "ratio_pct": 0.13
+  "ratio_pct": 0.13,
+  "shares": 9935
  },
  {
   "company": "채비",
@@ -181,7 +203,8 @@
   "period": "6개월",
   "release_date": "2026-10-29",
   "tradable_date": "2026-10-29",
-  "ratio_pct": 34.66
+  "ratio_pct": 34.66,
+  "shares": 16184050
  },
  {
   "company": "글로벌테크놀로지",
@@ -189,7 +212,8 @@
   "period": "1개월",
   "release_date": "2026-10-29",
   "tradable_date": "2026-10-29",
-  "ratio_pct": 9.77
+  "ratio_pct": 9.77,
+  "shares": 1913156
  },
  {
   "company": "빅웨이브로보틱스",
@@ -197,7 +221,8 @@
   "period": "1개월",
   "release_date": "2026-10-29",
   "tradable_date": "2026-10-29",
-  "ratio_pct": 9.41
+  "ratio_pct": 9.41,
+  "shares": 966116
  },
  {
   "company": "신한제18호스팩",
@@ -205,7 +230,8 @@
   "period": "6개월",
   "release_date": "2026-10-30",
   "tradable_date": "2026-10-30",
-  "ratio_pct": 13.92
+  "ratio_pct": 13.92,
+  "shares": 781813
  },
  {
   "company": "덕산넵코어스",
@@ -213,7 +239,8 @@
   "period": "1개월",
   "release_date": "2026-10-30",
   "tradable_date": "2026-10-30",
-  "ratio_pct": 0.91
+  "ratio_pct": 0.91,
+  "shares": 171508
  },
  {
   "company": "브릴스",
@@ -221,7 +248,8 @@
   "period": "1개월",
   "release_date": "2026-11-01",
   "tradable_date": "2026-11-02",
-  "ratio_pct": 7.39
+  "ratio_pct": 7.39,
+  "shares": 840204
  },
  {
   "company": "스카이랩스",
@@ -229,7 +257,8 @@
   "period": "2개월",
   "release_date": "2026-11-04",
   "tradable_date": "2026-11-04",
-  "ratio_pct": 3.23
+  "ratio_pct": 3.23,
+  "shares": 604559
  },
  {
   "company": "딜리셔스",
@@ -237,7 +266,8 @@
   "period": "3개월",
   "release_date": "2026-11-12",
   "tradable_date": "2026-11-12",
-  "ratio_pct": 11.11
+  "ratio_pct": 11.11,
+  "shares": 2428648
  },
  {
   "company": "케이앤에스아이앤씨",
@@ -245,7 +275,8 @@
   "period": "3개월",
   "release_date": "2026-11-13",
   "tradable_date": "2026-11-13",
-  "ratio_pct": 1.78
+  "ratio_pct": 1.78,
+  "shares": 183110
  },
  {
   "company": "폴레드",
@@ -253,7 +284,8 @@
   "period": "6개월",
   "release_date": "2026-11-14",
   "tradable_date": "2026-11-16",
-  "ratio_pct": 1.92
+  "ratio_pct": 1.92,
+  "shares": 483500
  },
  {
   "company": "인제니아테라퓨틱스",
@@ -261,7 +293,8 @@
   "period": "3개월",
   "release_date": "2026-11-18",
   "tradable_date": "2026-11-18",
-  "ratio_pct": 4.42
+  "ratio_pct": 4.42,
+  "shares": 2185459
  },
  {
   "company": "마키나락스",
@@ -269,7 +302,8 @@
   "period": "6개월",
   "release_date": "2026-11-20",
   "tradable_date": "2026-11-20",
-  "ratio_pct": 13.71
+  "ratio_pct": 13.71,
+  "shares": 2406900
  },
  {
   "company": "네오사피엔스",
@@ -277,7 +311,8 @@
   "period": "2개월",
   "release_date": "2026-11-21",
   "tradable_date": "2026-11-23",
-  "ratio_pct": 9.38
+  "ratio_pct": 9.38,
+  "shares": 1143690
  },
  {
   "company": "니어스랩",
@@ -285,7 +320,8 @@
   "period": "3개월",
   "release_date": "2026-11-24",
   "tradable_date": "2026-11-24",
-  "ratio_pct": 13.96
+  "ratio_pct": 13.96,
+  "shares": 806301
  },
  {
   "company": "해치텍",
@@ -293,7 +329,8 @@
   "period": "3개월",
   "release_date": "2026-11-25",
   "tradable_date": "2026-11-25",
-  "ratio_pct": 2.85
+  "ratio_pct": 2.85,
+  "shares": 156673
  },
  {
   "company": "덕산넵코어스",
@@ -301,7 +338,8 @@
   "period": "2개월",
   "release_date": "2026-11-30",
   "tradable_date": "2026-11-30",
-  "ratio_pct": 4.78
+  "ratio_pct": 4.78,
+  "shares": 902078
  },
  {
   "company": "브릴스",
@@ -309,7 +347,8 @@
   "period": "2개월",
   "release_date": "2026-12-01",
   "tradable_date": "2026-12-01",
-  "ratio_pct": 6.84
+  "ratio_pct": 6.84,
+  "shares": 777017
  },
  {
   "company": "스카이랩스",
@@ -317,7 +356,8 @@
   "period": "3개월",
   "release_date": "2026-12-04",
   "tradable_date": "2026-12-04",
-  "ratio_pct": 22.24
+  "ratio_pct": 22.24,
+  "shares": 4167846
  },
  {
   "company": "대신밸런스제20호스팩",
@@ -325,7 +365,8 @@
   "period": "6개월",
   "release_date": "2026-12-05",
   "tradable_date": "2026-12-07",
-  "ratio_pct": 13.55
+  "ratio_pct": 13.55,
+  "shares": 913424
  },
  {
   "company": "피스피스스튜디오",
@@ -333,7 +374,8 @@
   "period": "6개월",
   "release_date": "2026-12-08",
   "tradable_date": "2026-12-08",
-  "ratio_pct": 5.67
+  "ratio_pct": 5.67,
+  "shares": 803672
  },
  {
   "company": "엔에이치스팩34호",
@@ -341,7 +383,8 @@
   "period": "3개월",
   "release_date": "2026-12-10",
   "tradable_date": "2026-12-10",
-  "ratio_pct": 3.87
+  "ratio_pct": 3.87,
+  "shares": 350000
  },
  {
   "company": "메리츠제2호스팩",
@@ -349,7 +392,8 @@
   "period": "6개월",
   "release_date": "2026-12-19",
   "tradable_date": "2026-12-21",
-  "ratio_pct": 3.31
+  "ratio_pct": 3.31,
+  "shares": 240000
  },
  {
   "company": "네오사피엔스",
@@ -357,7 +401,8 @@
   "period": "3개월",
   "release_date": "2026-12-21",
   "tradable_date": "2026-12-21",
-  "ratio_pct": 15.2
+  "ratio_pct": 15.2,
+  "shares": 1854375
  },
  {
   "company": "한국제17호스팩",
@@ -365,7 +410,8 @@
   "period": "3개월",
   "release_date": "2026-12-22",
   "tradable_date": "2026-12-22",
-  "ratio_pct": 0.06
+  "ratio_pct": 0.06,
+  "shares": 5000
  },
  {
   "company": "와이즈플래닛컴퍼니",
@@ -373,7 +419,8 @@
   "period": "3개월",
   "release_date": "2026-12-23",
   "tradable_date": "2026-12-23",
-  "ratio_pct": 2.45
+  "ratio_pct": 2.45,
+  "shares": 245563
  },
  {
   "company": "빅웨이브로보틱스",
@@ -381,7 +428,8 @@
   "period": "3개월",
   "release_date": "2026-12-29",
   "tradable_date": "2026-12-29",
-  "ratio_pct": 9.33
+  "ratio_pct": 9.33,
+  "shares": 958180
  },
  {
   "company": "져스텍",
@@ -389,7 +437,8 @@
   "period": "6개월",
   "release_date": "2026-12-29",
   "tradable_date": "2026-12-29",
-  "ratio_pct": 1.59
+  "ratio_pct": 1.59,
+  "shares": 192075
  },
  {
   "company": "글로벌테크놀로지",
@@ -397,7 +446,8 @@
   "period": "3개월",
   "release_date": "2026-12-29",
   "tradable_date": "2026-12-29",
-  "ratio_pct": 0.39
+  "ratio_pct": 0.39,
+  "shares": 76923
  },
  {
   "company": "한국제16호스팩",
@@ -405,7 +455,8 @@
   "period": "6개월",
   "release_date": "2026-12-30",
   "tradable_date": "2026-12-30",
-  "ratio_pct": 21.47
+  "ratio_pct": 21.47,
+  "shares": 1450000
  },
  {
   "company": "덕산넵코어스",
@@ -413,7 +464,8 @@
   "period": "3개월",
   "release_date": "2026-12-30",
   "tradable_date": "2026-12-30",
-  "ratio_pct": 3.24
+  "ratio_pct": 3.24,
+  "shares": 609836
  },
  {
   "company": "스트라드비젼",
@@ -421,7 +473,8 @@
   "period": "6개월",
   "release_date": "2026-12-30",
   "tradable_date": "2026-12-30",
-  "ratio_pct": 2.39
+  "ratio_pct": 2.39,
+  "shares": 1271808
  },
  {
   "company": "브릴스",
@@ -429,7 +482,8 @@
   "period": "3개월",
   "release_date": "2027-01-01",
   "tradable_date": "2027-01-01",
-  "ratio_pct": 13.51
+  "ratio_pct": 13.51,
+  "shares": 1533999
  },
  {
   "company": "매드업",
@@ -437,7 +491,8 @@
   "period": "6개월",
   "release_date": "2027-01-01",
   "tradable_date": "2027-01-01",
-  "ratio_pct": 5.36
+  "ratio_pct": 5.36,
+  "shares": 1004876
  },
  {
   "company": "레몬헬스케어",
@@ -445,7 +500,8 @@
   "period": "6개월",
   "release_date": "2027-01-06",
   "tradable_date": "2027-01-06",
-  "ratio_pct": 2.22
+  "ratio_pct": 2.22,
+  "shares": 296514
  },
  {
   "company": "레메디",
@@ -453,7 +509,8 @@
   "period": "6개월",
   "release_date": "2027-01-13",
   "tradable_date": "2027-01-13",
-  "ratio_pct": 0.85
+  "ratio_pct": 0.85,
+  "shares": 65012
  },
  {
   "company": "에이치엘지노믹스",
@@ -461,7 +518,8 @@
   "period": "6개월",
   "release_date": "2027-01-24",
   "tradable_date": "2027-01-25",
-  "ratio_pct": 2.91
+  "ratio_pct": 2.91,
+  "shares": 226269
  },
  {
   "company": "딜리셔스",
@@ -469,7 +527,8 @@
   "period": "6개월",
   "release_date": "2027-02-12",
   "tradable_date": "2027-02-12",
-  "ratio_pct": 2.85
+  "ratio_pct": 2.85,
+  "shares": 623232
  },
  {
   "company": "인제니아테라퓨틱스",
@@ -477,7 +536,8 @@
   "period": "6개월",
   "release_date": "2027-02-18",
   "tradable_date": "2027-02-18",
-  "ratio_pct": 1.24
+  "ratio_pct": 1.24,
+  "shares": 611391
  },
  {
   "company": "기도산업",
@@ -485,7 +545,8 @@
   "period": "6개월",
   "release_date": "2027-02-21",
   "tradable_date": "2027-02-22",
-  "ratio_pct": 9.06
+  "ratio_pct": 9.06,
+  "shares": 529557
  },
  {
   "company": "니어스랩",
@@ -493,7 +554,8 @@
   "period": "6개월",
   "release_date": "2027-02-24",
   "tradable_date": "2027-02-24",
-  "ratio_pct": 0.46
+  "ratio_pct": 0.46,
+  "shares": 26282
  },
  {
   "company": "엔에이치스팩34호",
@@ -501,7 +563,8 @@
   "period": "6개월",
   "release_date": "2027-03-10",
   "tradable_date": "2027-03-10",
-  "ratio_pct": 6.08
+  "ratio_pct": 6.08,
+  "shares": 550000
  },
  {
   "company": "한국제17호스팩",
@@ -509,7 +572,8 @@
   "period": "6개월",
   "release_date": "2027-03-22",
   "tradable_date": "2027-03-22",
-  "ratio_pct": 19.53
+  "ratio_pct": 19.53,
+  "shares": 1700000
  },
  {
   "company": "케이비제34호스팩",
@@ -517,7 +581,8 @@
   "period": "6개월",
   "release_date": "2027-03-22",
   "tradable_date": "2027-03-22",
-  "ratio_pct": 2.91
+  "ratio_pct": 2.91,
+  "shares": 210000
  },
  {
   "company": "와이즈플래닛컴퍼니",
@@ -525,7 +590,8 @@
   "period": "6개월",
   "release_date": "2027-03-23",
   "tradable_date": "2027-03-23",
-  "ratio_pct": 16.2
+  "ratio_pct": 16.2,
+  "shares": 1620882
  },
  {
   "company": "빅웨이브로보틱스",
@@ -533,7 +599,8 @@
   "period": "6개월",
   "release_date": "2027-03-29",
   "tradable_date": "2027-03-29",
-  "ratio_pct": 1.56
+  "ratio_pct": 1.56,
+  "shares": 159800
  },
  {
   "company": "덕산넵코어스",
@@ -541,7 +608,8 @@
   "period": "6개월",
   "release_date": "2027-03-30",
   "tradable_date": "2027-03-30",
-  "ratio_pct": 1.39
+  "ratio_pct": 1.39,
+  "shares": 261647
  },
  {
   "company": "브릴스",
@@ -549,6 +617,7 @@
   "period": "6개월",
   "release_date": "2027-04-01",
   "tradable_date": "2027-04-01",
-  "ratio_pct": 4.5
+  "ratio_pct": 4.5,
+  "shares": 511063
  }
 ]

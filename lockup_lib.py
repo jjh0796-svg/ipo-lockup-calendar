@@ -41,6 +41,7 @@ class LockupEvent:
     release_date: str  # ISO (상장일 + 확약기간)
     tradable_date: str  # ISO (주말이면 다음 평일)
     ratio_pct: float  # 공모 후 지분율 합 (%)
+    shares: int | None = None  # 같은 기간 확약 '보유주식' 합 (보통주+우선주, 2026-10-06 추가)
 
     def to_dict(self) -> dict:
         return asdict(self)
@@ -118,6 +119,14 @@ def normalize_period_label(text: str) -> str | None:
 
 def parse_period_ratios(soup: BeautifulSoup) -> dict[str, float]:
     """주주 보호예수 테이블에서 기간별 공모 후 지분율 합을 구한다."""
+    return {period: item["ratio"] for period, item in parse_period_lockups(soup).items()}
+
+
+def parse_period_lockups(soup: BeautifulSoup) -> dict[str, dict]:
+    """기간별 {'ratio': 공모 후 지분율 합(%), 'shares': 보유주식 합(주)}.
+
+    행 모양: 6칸 [구분묶음, 주주, 보통주, 우선주, 지분율, 기간] / 5칸 [주주, 보통주, 우선주, 지분율, 기간].
+    """
     target = None
     for table in soup.find_all("table"):
         rows = table.find_all("tr")
@@ -129,13 +138,13 @@ def parse_period_ratios(soup: BeautifulSoup) -> dict[str, float]:
             break
     if target is None:
         return {}
-    ratios: dict[str, float] = {}
+    found: dict[str, dict] = {}
     for row in target.find_all("tr"):
         cells = [_normalize_space(c.get_text(" ", strip=True)) for c in row.find_all(["th", "td"])]
         if len(cells) == 6:
-            _, _, _, _, ratio_text, period_text = cells
+            _, _, common_text, pref_text, ratio_text, period_text = cells
         elif len(cells) == 5:
-            _, _, _, ratio_text, period_text = cells
+            _, common_text, pref_text, ratio_text, period_text = cells
         else:
             continue
         period = normalize_period_label(period_text)
@@ -144,8 +153,13 @@ def parse_period_ratios(soup: BeautifulSoup) -> dict[str, float]:
         match = re.search(r"-?\d+(?:\.\d+)?", ratio_text.replace(",", ""))
         if not match:
             continue
-        ratios[period] = ratios.get(period, 0.0) + float(match.group(0))
-    return {k: round(v, 2) for k, v in ratios.items() if v > 0}
+        item = found.setdefault(period, {"ratio": 0.0, "shares": 0})
+        item["ratio"] += float(match.group(0))
+        for text in (common_text, pref_text):
+            digits = re.sub(r"[^0-9]", "", text)
+            item["shares"] += int(digits) if digits else 0
+    return {k: {"ratio": round(v["ratio"], 2), "shares": v["shares"] or None}
+            for k, v in found.items() if v["ratio"] > 0}
 
 
 def add_months(base: date, months: int) -> date:
@@ -188,7 +202,8 @@ def collect_events(years, *, min_release: date, max_release: date, session=None)
         listing = extract_listing_date(page_text)
         if not company or not listing:
             continue  # 미상장 종목
-        for period, ratio in parse_period_ratios(soup).items():
+        for period, item in parse_period_lockups(soup).items():
+            ratio = item["ratio"]
             release = release_date_for(listing, period)
             if not (min_release <= release <= max_release):
                 continue
@@ -200,6 +215,7 @@ def collect_events(years, *, min_release: date, max_release: date, session=None)
                     release_date=release.isoformat(),
                     tradable_date=next_weekday(release).isoformat(),
                     ratio_pct=ratio,
+                    shares=item["shares"],
                 )
             )
     events.sort(key=lambda e: (e.release_date, -e.ratio_pct, e.company))

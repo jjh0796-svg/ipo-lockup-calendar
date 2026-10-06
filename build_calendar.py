@@ -29,7 +29,8 @@ def build_ics(events: list[LockupEvent], generated_at: datetime) -> str:
         description = (
             f"확약 만기일: {event.release_date} (상장일 {event.listing_date} + {event.period})\\n"
             f"해제 지분율: 공모 후 {event.ratio_pct:.2f}%\\n"
-            f"매도 가능(추정): {event.tradable_date} — 예탁원 처리에 따라 ±1영업일 차이 가능"
+            + (f"해제 주식 수: {event.shares:,}주\\n" if getattr(event, "shares", None) else "")
+            + f"매도 가능(추정): {event.tradable_date} — 예탁원 처리에 따라 ±1영업일 차이 가능"
         )
         uid = f"{event.company}-{event.listing_date}-{event.period}@ipo-lockup-calendar"
         lines.extend(
@@ -63,14 +64,14 @@ def build_readme(events: list[LockupEvent], generated_at: datetime) -> str:
         "",
         "## 향후 30일 해제 일정",
         "",
-        "| 매도가능일 | 종목 | 기간 | 해제 지분율 | 확약만기 | 상장일 |",
-        "|-----------|------|------|------------|---------|--------|",
+        "| 매도가능일 | 종목 | 기간 | 해제 주식 수 | 해제 지분율 | 확약만기 | 상장일 |",
+        "|-----------|------|------|------------|------------|---------|--------|",
     ]
     for event in upcoming:
         tradable = date.fromisoformat(event.tradable_date)
         label = f"{tradable.strftime('%m/%d')}({WEEKDAYS[tradable.weekday()]})"
         lines.append(
-            f"| {label} | {event.company} | {event.period} | {event.ratio_pct:.2f}% | {event.release_date} | {event.listing_date} |"
+            f"| {label} | {event.company} | {event.period} | {f'{event.shares:,}주' if event.shares else '-'} | {event.ratio_pct:.2f}% | {event.release_date} | {event.listing_date} |"
         )
     if not upcoming:
         lines.append("| - | 30일 이내 해제 예정 없음 | | | |")
