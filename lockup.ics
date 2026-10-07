@@ -1,559 +1,551 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//ipo-lockup-calendar//KR
-CALSCALE:GREGORIAN
-X-WR-CALNAME:IPO 락업 해제
-X-WR-TIMEZONE:Asia/Seoul
-BEGIN:VEVENT
-UID:져스텍-2026-06-29-3개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20260930
-SUMMARY:🔓 져스텍 3개월 락업해제 매도가능 (3.4%)
-DESCRIPTION:확약 만기일: 2026-09-29 (상장일 2026-06-29 + 3개월)\n해제 지분율: 공모 후 3.38%\n해제 주식 수: 407,161주\n매도 가능(추정): 2026-09-29 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:리센스메디컬-2026-03-31-6개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:🔓 리센스메디컬 6개월 락업해제 매도가능 (3.0%)
-DESCRIPTION:확약 만기일: 2026-09-30 (상장일 2026-03-31 + 6개월)\n해제 지분율: 공모 후 3.04%\n해제 주식 수: 329,994주\n매도 가능(추정): 2026-09-30 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:스트라드비젼-2026-06-30-3개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:🔓 스트라드비젼 3개월 락업해제 매도가능 (0.2%)
-DESCRIPTION:확약 만기일: 2026-09-30 (상장일 2026-06-30 + 3개월)\n해제 지분율: 공모 후 0.19%\n해제 주식 수: 99,250주\n매도 가능(추정): 2026-09-30 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:매드업-2026-07-01-3개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:🔓 매드업 3개월 락업해제 매도가능 (12.5%)
-DESCRIPTION:확약 만기일: 2026-10-01 (상장일 2026-07-01 + 3개월)\n해제 지분율: 공모 후 12.54%\n해제 주식 수: 2,350,612주\n매도 가능(추정): 2026-10-01 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:신한제17호스팩-2026-04-01-6개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:🔓 신한제17호스팩 6개월 락업해제 매도가능 (6.4%)
-DESCRIPTION:확약 만기일: 2026-10-01 (상장일 2026-04-01 + 6개월)\n해제 지분율: 공모 후 6.37%\n해제 주식 수: 340,000주\n매도 가능(추정): 2026-10-01 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:교보20호스팩-2026-04-02-6개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-SUMMARY:🔓 교보20호스팩 6개월 락업해제 매도가능 (9.6%)
-DESCRIPTION:확약 만기일: 2026-10-02 (상장일 2026-04-02 + 6개월)\n해제 지분율: 공모 후 9.55%\n해제 주식 수: 570,000주\n매도 가능(추정): 2026-10-02 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:인벤테라-2026-04-02-6개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-SUMMARY:🔓 인벤테라 6개월 락업해제 매도가능 (2.8%)
-DESCRIPTION:확약 만기일: 2026-10-02 (상장일 2026-04-02 + 6개월)\n해제 지분율: 공모 후 2.79%\n해제 주식 수: 219,430주\n매도 가능(추정): 2026-10-02 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:스카이랩스-2026-09-04-1개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-SUMMARY:🔓 스카이랩스 1개월 락업해제 매도가능 (24.0%)
-DESCRIPTION:확약 만기일: 2026-10-04 (상장일 2026-09-04 + 1개월)\n해제 지분율: 공모 후 24.03%\n해제 주식 수: 4,502,203주\n매도 가능(추정): 2026-10-05 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:레몬헬스케어-2026-07-06-3개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-SUMMARY:🔓 레몬헬스케어 3개월 락업해제 매도가능 (17.6%)
-DESCRIPTION:확약 만기일: 2026-10-06 (상장일 2026-07-06 + 3개월)\n해제 지분율: 공모 후 17.58%\n해제 주식 수: 2,347,012주\n매도 가능(추정): 2026-10-06 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:네오사피엔스-2026-09-21-15일@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-SUMMARY:🔓 네오사피엔스 15일 락업해제 매도가능 (5.4%)
-DESCRIPTION:확약 만기일: 2026-10-06 (상장일 2026-09-21 + 15일)\n해제 지분율: 공모 후 5.41%\n해제 주식 수: 660,322주\n매도 가능(추정): 2026-10-06 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:와이즈플래닛컴퍼니-2026-09-23-15일@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-SUMMARY:🔓 와이즈플래닛컴퍼니 15일 락업해제 매도가능 (5.4%)
-DESCRIPTION:확약 만기일: 2026-10-08 (상장일 2026-09-23 + 15일)\n해제 지분율: 공모 후 5.43%\n해제 주식 수: 543,406주\n매도 가능(추정): 2026-10-08 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:딜리셔스-2026-08-12-2개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-SUMMARY:🔓 딜리셔스 2개월 락업해제 매도가능 (10.5%)
-DESCRIPTION:확약 만기일: 2026-10-12 (상장일 2026-08-12 + 2개월)\n해제 지분율: 공모 후 10.47%\n해제 주식 수: 2,289,279주\n매도 가능(추정): 2026-10-12 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:레메디-2026-07-13-3개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-SUMMARY:🔓 레메디 3개월 락업해제 매도가능 (12.3%)
-DESCRIPTION:확약 만기일: 2026-10-13 (상장일 2026-07-13 + 3개월)\n해제 지분율: 공모 후 12.30%\n해제 주식 수: 937,898주\n매도 가능(추정): 2026-10-13 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:글로벌테크놀로지-2026-09-29-15일@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:🔓 글로벌테크놀로지 15일 락업해제 매도가능 (5.1%)
-DESCRIPTION:확약 만기일: 2026-10-14 (상장일 2026-09-29 + 15일)\n해제 지분율: 공모 후 5.06%\n해제 주식 수: 990,000주\n매도 가능(추정): 2026-10-14 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:빅웨이브로보틱스-2026-09-29-15일@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:🔓 빅웨이브로보틱스 15일 락업해제 매도가능 (3.0%)
-DESCRIPTION:확약 만기일: 2026-10-14 (상장일 2026-09-29 + 15일)\n해제 지분율: 공모 후 3.03%\n해제 주식 수: 311,650주\n매도 가능(추정): 2026-10-14 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:덕산넵코어스-2026-09-30-15일@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
-SUMMARY:🔓 덕산넵코어스 15일 락업해제 매도가능 (3.4%)
-DESCRIPTION:확약 만기일: 2026-10-15 (상장일 2026-09-30 + 15일)\n해제 지분율: 공모 후 3.38%\n해제 주식 수: 638,253주\n매도 가능(추정): 2026-10-15 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:브릴스-2026-10-01-15일@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:🔓 브릴스 15일 락업해제 매도가능 (2.8%)
-DESCRIPTION:확약 만기일: 2026-10-16 (상장일 2026-10-01 + 15일)\n해제 지분율: 공모 후 2.82%\n해제 주식 수: 320,765주\n매도 가능(추정): 2026-10-16 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:네오사피엔스-2026-09-21-1개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:🔓 네오사피엔스 1개월 락업해제 매도가능 (8.4%)
-DESCRIPTION:확약 만기일: 2026-10-21 (상장일 2026-09-21 + 1개월)\n해제 지분율: 공모 후 8.41%\n해제 주식 수: 1,025,700주\n매도 가능(추정): 2026-10-21 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:키움히어로제2호스팩-2026-04-23-6개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-SUMMARY:🔓 키움히어로제2호스팩 6개월 락업해제 매도가능 (5.0%)
-DESCRIPTION:확약 만기일: 2026-10-23 (상장일 2026-04-23 + 6개월)\n해제 지분율: 공모 후 5.02%\n해제 주식 수: 317,000주\n매도 가능(추정): 2026-10-23 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:와이즈플래닛컴퍼니-2026-09-23-1개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-SUMMARY:🔓 와이즈플래닛컴퍼니 1개월 락업해제 매도가능 (0.1%)
-DESCRIPTION:확약 만기일: 2026-10-23 (상장일 2026-09-23 + 1개월)\n해제 지분율: 공모 후 0.07%\n해제 주식 수: 7,223주\n매도 가능(추정): 2026-10-23 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:니어스랩-2026-08-24-2개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261027
-SUMMARY:🔓 니어스랩 2개월 락업해제 매도가능 (8.1%)
-DESCRIPTION:확약 만기일: 2026-10-24 (상장일 2026-08-24 + 2개월)\n해제 지분율: 공모 후 8.05%\n해제 주식 수: 464,331주\n매도 가능(추정): 2026-10-26 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:에이치엘지노믹스-2026-07-24-3개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261027
-SUMMARY:🔓 에이치엘지노믹스 3개월 락업해제 매도가능 (0.1%)
-DESCRIPTION:확약 만기일: 2026-10-24 (상장일 2026-07-24 + 3개월)\n해제 지분율: 공모 후 0.13%\n해제 주식 수: 9,935주\n매도 가능(추정): 2026-10-26 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:채비-2026-04-29-6개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:🔓 채비 6개월 락업해제 매도가능 (34.7%)
-DESCRIPTION:확약 만기일: 2026-10-29 (상장일 2026-04-29 + 6개월)\n해제 지분율: 공모 후 34.66%\n해제 주식 수: 16,184,050주\n매도 가능(추정): 2026-10-29 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:글로벌테크놀로지-2026-09-29-1개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:🔓 글로벌테크놀로지 1개월 락업해제 매도가능 (9.8%)
-DESCRIPTION:확약 만기일: 2026-10-29 (상장일 2026-09-29 + 1개월)\n해제 지분율: 공모 후 9.77%\n해제 주식 수: 1,913,156주\n매도 가능(추정): 2026-10-29 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:빅웨이브로보틱스-2026-09-29-1개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:🔓 빅웨이브로보틱스 1개월 락업해제 매도가능 (9.4%)
-DESCRIPTION:확약 만기일: 2026-10-29 (상장일 2026-09-29 + 1개월)\n해제 지분율: 공모 후 9.41%\n해제 주식 수: 966,116주\n매도 가능(추정): 2026-10-29 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:신한제18호스팩-2026-04-30-6개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:🔓 신한제18호스팩 6개월 락업해제 매도가능 (13.9%)
-DESCRIPTION:확약 만기일: 2026-10-30 (상장일 2026-04-30 + 6개월)\n해제 지분율: 공모 후 13.92%\n해제 주식 수: 781,813주\n매도 가능(추정): 2026-10-30 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:덕산넵코어스-2026-09-30-1개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:🔓 덕산넵코어스 1개월 락업해제 매도가능 (0.9%)
-DESCRIPTION:확약 만기일: 2026-10-30 (상장일 2026-09-30 + 1개월)\n해제 지분율: 공모 후 0.91%\n해제 주식 수: 171,508주\n매도 가능(추정): 2026-10-30 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:브릴스-2026-10-01-1개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-SUMMARY:🔓 브릴스 1개월 락업해제 매도가능 (7.4%)
-DESCRIPTION:확약 만기일: 2026-11-01 (상장일 2026-10-01 + 1개월)\n해제 지분율: 공모 후 7.39%\n해제 주식 수: 840,204주\n매도 가능(추정): 2026-11-02 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:스카이랩스-2026-09-04-2개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
-SUMMARY:🔓 스카이랩스 2개월 락업해제 매도가능 (3.2%)
-DESCRIPTION:확약 만기일: 2026-11-04 (상장일 2026-09-04 + 2개월)\n해제 지분율: 공모 후 3.23%\n해제 주식 수: 604,559주\n매도 가능(추정): 2026-11-04 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:딜리셔스-2026-08-12-3개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:🔓 딜리셔스 3개월 락업해제 매도가능 (11.1%)
-DESCRIPTION:확약 만기일: 2026-11-12 (상장일 2026-08-12 + 3개월)\n해제 지분율: 공모 후 11.11%\n해제 주식 수: 2,428,648주\n매도 가능(추정): 2026-11-12 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:케이앤에스아이앤씨-2026-08-13-3개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:🔓 케이앤에스아이앤씨 3개월 락업해제 매도가능 (1.8%)
-DESCRIPTION:확약 만기일: 2026-11-13 (상장일 2026-08-13 + 3개월)\n해제 지분율: 공모 후 1.78%\n해제 주식 수: 183,110주\n매도 가능(추정): 2026-11-13 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:폴레드-2026-05-14-6개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:🔓 폴레드 6개월 락업해제 매도가능 (1.9%)
-DESCRIPTION:확약 만기일: 2026-11-14 (상장일 2026-05-14 + 6개월)\n해제 지분율: 공모 후 1.92%\n해제 주식 수: 483,500주\n매도 가능(추정): 2026-11-16 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:인제니아테라퓨틱스-2026-08-18-3개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:🔓 인제니아테라퓨틱스 3개월 락업해제 매도가능 (4.4%)
-DESCRIPTION:확약 만기일: 2026-11-18 (상장일 2026-08-18 + 3개월)\n해제 지분율: 공모 후 4.42%\n해제 주식 수: 2,185,459주\n매도 가능(추정): 2026-11-18 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:마키나락스-2026-05-20-6개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-SUMMARY:🔓 마키나락스 6개월 락업해제 매도가능 (13.7%)
-DESCRIPTION:확약 만기일: 2026-11-20 (상장일 2026-05-20 + 6개월)\n해제 지분율: 공모 후 13.71%\n해제 주식 수: 2,406,900주\n매도 가능(추정): 2026-11-20 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:네오사피엔스-2026-09-21-2개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:🔓 네오사피엔스 2개월 락업해제 매도가능 (9.4%)
-DESCRIPTION:확약 만기일: 2026-11-21 (상장일 2026-09-21 + 2개월)\n해제 지분율: 공모 후 9.38%\n해제 주식 수: 1,143,690주\n매도 가능(추정): 2026-11-23 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:니어스랩-2026-08-24-3개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:🔓 니어스랩 3개월 락업해제 매도가능 (14.0%)
-DESCRIPTION:확약 만기일: 2026-11-24 (상장일 2026-08-24 + 3개월)\n해제 지분율: 공모 후 13.96%\n해제 주식 수: 806,301주\n매도 가능(추정): 2026-11-24 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:해치텍-2026-08-25-3개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:🔓 해치텍 3개월 락업해제 매도가능 (2.9%)
-DESCRIPTION:확약 만기일: 2026-11-25 (상장일 2026-08-25 + 3개월)\n해제 지분율: 공모 후 2.85%\n해제 주식 수: 156,673주\n매도 가능(추정): 2026-11-25 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:덕산넵코어스-2026-09-30-2개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-SUMMARY:🔓 덕산넵코어스 2개월 락업해제 매도가능 (4.8%)
-DESCRIPTION:확약 만기일: 2026-11-30 (상장일 2026-09-30 + 2개월)\n해제 지분율: 공모 후 4.78%\n해제 주식 수: 902,078주\n매도 가능(추정): 2026-11-30 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:브릴스-2026-10-01-2개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261202
-SUMMARY:🔓 브릴스 2개월 락업해제 매도가능 (6.8%)
-DESCRIPTION:확약 만기일: 2026-12-01 (상장일 2026-10-01 + 2개월)\n해제 지분율: 공모 후 6.84%\n해제 주식 수: 777,017주\n매도 가능(추정): 2026-12-01 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:스카이랩스-2026-09-04-3개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:🔓 스카이랩스 3개월 락업해제 매도가능 (22.2%)
-DESCRIPTION:확약 만기일: 2026-12-04 (상장일 2026-09-04 + 3개월)\n해제 지분율: 공모 후 22.24%\n해제 주식 수: 4,167,846주\n매도 가능(추정): 2026-12-04 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:대신밸런스제20호스팩-2026-06-05-6개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261207
-DTEND;VALUE=DATE:20261208
-SUMMARY:🔓 대신밸런스제20호스팩 6개월 락업해제 매도가능 (13.6%)
-DESCRIPTION:확약 만기일: 2026-12-05 (상장일 2026-06-05 + 6개월)\n해제 지분율: 공모 후 13.55%\n해제 주식 수: 913,424주\n매도 가능(추정): 2026-12-07 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:피스피스스튜디오-2026-06-08-6개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261208
-DTEND;VALUE=DATE:20261209
-SUMMARY:🔓 피스피스스튜디오 6개월 락업해제 매도가능 (5.7%)
-DESCRIPTION:확약 만기일: 2026-12-08 (상장일 2026-06-08 + 6개월)\n해제 지분율: 공모 후 5.67%\n해제 주식 수: 803,672주\n매도 가능(추정): 2026-12-08 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:엔에이치스팩34호-2026-09-10-3개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261210
-DTEND;VALUE=DATE:20261211
-SUMMARY:🔓 엔에이치스팩34호 3개월 락업해제 매도가능 (3.9%)
-DESCRIPTION:확약 만기일: 2026-12-10 (상장일 2026-09-10 + 3개월)\n해제 지분율: 공모 후 3.87%\n해제 주식 수: 350,000주\n매도 가능(추정): 2026-12-10 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:메리츠제2호스팩-2026-06-19-6개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261221
-DTEND;VALUE=DATE:20261222
-SUMMARY:🔓 메리츠제2호스팩 6개월 락업해제 매도가능 (3.3%)
-DESCRIPTION:확약 만기일: 2026-12-19 (상장일 2026-06-19 + 6개월)\n해제 지분율: 공모 후 3.31%\n해제 주식 수: 240,000주\n매도 가능(추정): 2026-12-21 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:네오사피엔스-2026-09-21-3개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261221
-DTEND;VALUE=DATE:20261222
-SUMMARY:🔓 네오사피엔스 3개월 락업해제 매도가능 (15.2%)
-DESCRIPTION:확약 만기일: 2026-12-21 (상장일 2026-09-21 + 3개월)\n해제 지분율: 공모 후 15.20%\n해제 주식 수: 1,854,375주\n매도 가능(추정): 2026-12-21 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:한국제17호스팩-2026-09-22-3개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261222
-DTEND;VALUE=DATE:20261223
-SUMMARY:🔓 한국제17호스팩 3개월 락업해제 매도가능 (0.1%)
-DESCRIPTION:확약 만기일: 2026-12-22 (상장일 2026-09-22 + 3개월)\n해제 지분율: 공모 후 0.06%\n해제 주식 수: 5,000주\n매도 가능(추정): 2026-12-22 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:와이즈플래닛컴퍼니-2026-09-23-3개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261223
-DTEND;VALUE=DATE:20261224
-SUMMARY:🔓 와이즈플래닛컴퍼니 3개월 락업해제 매도가능 (2.5%)
-DESCRIPTION:확약 만기일: 2026-12-23 (상장일 2026-09-23 + 3개월)\n해제 지분율: 공모 후 2.45%\n해제 주식 수: 245,563주\n매도 가능(추정): 2026-12-23 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:빅웨이브로보틱스-2026-09-29-3개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261229
-DTEND;VALUE=DATE:20261230
-SUMMARY:🔓 빅웨이브로보틱스 3개월 락업해제 매도가능 (9.3%)
-DESCRIPTION:확약 만기일: 2026-12-29 (상장일 2026-09-29 + 3개월)\n해제 지분율: 공모 후 9.33%\n해제 주식 수: 958,180주\n매도 가능(추정): 2026-12-29 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:져스텍-2026-06-29-6개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261229
-DTEND;VALUE=DATE:20261230
-SUMMARY:🔓 져스텍 6개월 락업해제 매도가능 (1.6%)
-DESCRIPTION:확약 만기일: 2026-12-29 (상장일 2026-06-29 + 6개월)\n해제 지분율: 공모 후 1.59%\n해제 주식 수: 192,075주\n매도 가능(추정): 2026-12-29 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:글로벌테크놀로지-2026-09-29-3개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261229
-DTEND;VALUE=DATE:20261230
-SUMMARY:🔓 글로벌테크놀로지 3개월 락업해제 매도가능 (0.4%)
-DESCRIPTION:확약 만기일: 2026-12-29 (상장일 2026-09-29 + 3개월)\n해제 지분율: 공모 후 0.39%\n해제 주식 수: 76,923주\n매도 가능(추정): 2026-12-29 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:한국제16호스팩-2026-06-30-6개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261230
-DTEND;VALUE=DATE:20261231
-SUMMARY:🔓 한국제16호스팩 6개월 락업해제 매도가능 (21.5%)
-DESCRIPTION:확약 만기일: 2026-12-30 (상장일 2026-06-30 + 6개월)\n해제 지분율: 공모 후 21.47%\n해제 주식 수: 1,450,000주\n매도 가능(추정): 2026-12-30 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:덕산넵코어스-2026-09-30-3개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261230
-DTEND;VALUE=DATE:20261231
-SUMMARY:🔓 덕산넵코어스 3개월 락업해제 매도가능 (3.2%)
-DESCRIPTION:확약 만기일: 2026-12-30 (상장일 2026-09-30 + 3개월)\n해제 지분율: 공모 후 3.24%\n해제 주식 수: 609,836주\n매도 가능(추정): 2026-12-30 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:스트라드비젼-2026-06-30-6개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20261230
-DTEND;VALUE=DATE:20261231
-SUMMARY:🔓 스트라드비젼 6개월 락업해제 매도가능 (2.4%)
-DESCRIPTION:확약 만기일: 2026-12-30 (상장일 2026-06-30 + 6개월)\n해제 지분율: 공모 후 2.39%\n해제 주식 수: 1,271,808주\n매도 가능(추정): 2026-12-30 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:브릴스-2026-10-01-3개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20270101
-DTEND;VALUE=DATE:20270102
-SUMMARY:🔓 브릴스 3개월 락업해제 매도가능 (13.5%)
-DESCRIPTION:확약 만기일: 2027-01-01 (상장일 2026-10-01 + 3개월)\n해제 지분율: 공모 후 13.51%\n해제 주식 수: 1,533,999주\n매도 가능(추정): 2027-01-01 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:매드업-2026-07-01-6개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20270101
-DTEND;VALUE=DATE:20270102
-SUMMARY:🔓 매드업 6개월 락업해제 매도가능 (5.4%)
-DESCRIPTION:확약 만기일: 2027-01-01 (상장일 2026-07-01 + 6개월)\n해제 지분율: 공모 후 5.36%\n해제 주식 수: 1,004,876주\n매도 가능(추정): 2027-01-01 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:레몬헬스케어-2026-07-06-6개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20270106
-DTEND;VALUE=DATE:20270107
-SUMMARY:🔓 레몬헬스케어 6개월 락업해제 매도가능 (2.2%)
-DESCRIPTION:확약 만기일: 2027-01-06 (상장일 2026-07-06 + 6개월)\n해제 지분율: 공모 후 2.22%\n해제 주식 수: 296,514주\n매도 가능(추정): 2027-01-06 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:레메디-2026-07-13-6개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20270113
-DTEND;VALUE=DATE:20270114
-SUMMARY:🔓 레메디 6개월 락업해제 매도가능 (0.8%)
-DESCRIPTION:확약 만기일: 2027-01-13 (상장일 2026-07-13 + 6개월)\n해제 지분율: 공모 후 0.85%\n해제 주식 수: 65,012주\n매도 가능(추정): 2027-01-13 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:에이치엘지노믹스-2026-07-24-6개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20270125
-DTEND;VALUE=DATE:20270126
-SUMMARY:🔓 에이치엘지노믹스 6개월 락업해제 매도가능 (2.9%)
-DESCRIPTION:확약 만기일: 2027-01-24 (상장일 2026-07-24 + 6개월)\n해제 지분율: 공모 후 2.91%\n해제 주식 수: 226,269주\n매도 가능(추정): 2027-01-25 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:딜리셔스-2026-08-12-6개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20270212
-DTEND;VALUE=DATE:20270213
-SUMMARY:🔓 딜리셔스 6개월 락업해제 매도가능 (2.9%)
-DESCRIPTION:확약 만기일: 2027-02-12 (상장일 2026-08-12 + 6개월)\n해제 지분율: 공모 후 2.85%\n해제 주식 수: 623,232주\n매도 가능(추정): 2027-02-12 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:인제니아테라퓨틱스-2026-08-18-6개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20270218
-DTEND;VALUE=DATE:20270219
-SUMMARY:🔓 인제니아테라퓨틱스 6개월 락업해제 매도가능 (1.2%)
-DESCRIPTION:확약 만기일: 2027-02-18 (상장일 2026-08-18 + 6개월)\n해제 지분율: 공모 후 1.24%\n해제 주식 수: 611,391주\n매도 가능(추정): 2027-02-18 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:기도산업-2026-08-21-6개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20270222
-DTEND;VALUE=DATE:20270223
-SUMMARY:🔓 기도산업 6개월 락업해제 매도가능 (9.1%)
-DESCRIPTION:확약 만기일: 2027-02-21 (상장일 2026-08-21 + 6개월)\n해제 지분율: 공모 후 9.06%\n해제 주식 수: 529,557주\n매도 가능(추정): 2027-02-22 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:니어스랩-2026-08-24-6개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20270224
-DTEND;VALUE=DATE:20270225
-SUMMARY:🔓 니어스랩 6개월 락업해제 매도가능 (0.5%)
-DESCRIPTION:확약 만기일: 2027-02-24 (상장일 2026-08-24 + 6개월)\n해제 지분율: 공모 후 0.46%\n해제 주식 수: 26,282주\n매도 가능(추정): 2027-02-24 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:엔에이치스팩34호-2026-09-10-6개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20270310
-DTEND;VALUE=DATE:20270311
-SUMMARY:🔓 엔에이치스팩34호 6개월 락업해제 매도가능 (6.1%)
-DESCRIPTION:확약 만기일: 2027-03-10 (상장일 2026-09-10 + 6개월)\n해제 지분율: 공모 후 6.08%\n해제 주식 수: 550,000주\n매도 가능(추정): 2027-03-10 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:한국제17호스팩-2026-09-22-6개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20270322
-DTEND;VALUE=DATE:20270323
-SUMMARY:🔓 한국제17호스팩 6개월 락업해제 매도가능 (19.5%)
-DESCRIPTION:확약 만기일: 2027-03-22 (상장일 2026-09-22 + 6개월)\n해제 지분율: 공모 후 19.53%\n해제 주식 수: 1,700,000주\n매도 가능(추정): 2027-03-22 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:케이비제34호스팩-2026-09-22-6개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20270322
-DTEND;VALUE=DATE:20270323
-SUMMARY:🔓 케이비제34호스팩 6개월 락업해제 매도가능 (2.9%)
-DESCRIPTION:확약 만기일: 2027-03-22 (상장일 2026-09-22 + 6개월)\n해제 지분율: 공모 후 2.91%\n해제 주식 수: 210,000주\n매도 가능(추정): 2027-03-22 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:와이즈플래닛컴퍼니-2026-09-23-6개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20270323
-DTEND;VALUE=DATE:20270324
-SUMMARY:🔓 와이즈플래닛컴퍼니 6개월 락업해제 매도가능 (16.2%)
-DESCRIPTION:확약 만기일: 2027-03-23 (상장일 2026-09-23 + 6개월)\n해제 지분율: 공모 후 16.20%\n해제 주식 수: 1,620,882주\n매도 가능(추정): 2027-03-23 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:빅웨이브로보틱스-2026-09-29-6개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20270329
-DTEND;VALUE=DATE:20270330
-SUMMARY:🔓 빅웨이브로보틱스 6개월 락업해제 매도가능 (1.6%)
-DESCRIPTION:확약 만기일: 2027-03-29 (상장일 2026-09-29 + 6개월)\n해제 지분율: 공모 후 1.56%\n해제 주식 수: 159,800주\n매도 가능(추정): 2027-03-29 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:덕산넵코어스-2026-09-30-6개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20270330
-DTEND;VALUE=DATE:20270331
-SUMMARY:🔓 덕산넵코어스 6개월 락업해제 매도가능 (1.4%)
-DESCRIPTION:확약 만기일: 2027-03-30 (상장일 2026-09-30 + 6개월)\n해제 지분율: 공모 후 1.39%\n해제 주식 수: 261,647주\n매도 가능(추정): 2027-03-30 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-BEGIN:VEVENT
-UID:브릴스-2026-10-01-6개월@ipo-lockup-calendar
-DTSTAMP:20261006T064919Z
-DTSTART;VALUE=DATE:20270401
-DTEND;VALUE=DATE:20270402
-SUMMARY:🔓 브릴스 6개월 락업해제 매도가능 (4.5%)
-DESCRIPTION:확약 만기일: 2027-04-01 (상장일 2026-10-01 + 6개월)\n해제 지분율: 공모 후 4.50%\n해제 주식 수: 511,063주\n매도 가능(추정): 2027-04-01 — 예탁원 처리에 따라 ±1영업일 차이 가능
-END:VEVENT
-END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ipo-lockup-calendar//KR
+CALSCALE:GREGORIAN
+X-WR-CALNAME:IPO 락업 해제
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+UID:리센스메디컬-2026-03-31-6개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:🔓 리센스메디컬 6개월 락업해제 매도가능 (3.0%)
+DESCRIPTION:확약 만기일: 2026-09-30 (상장일 2026-03-31 + 6개월)\n해제 지분율: 공모 후 3.04%\n해제 주식 수: 329,994주\n매도 가능(추정): 2026-09-30 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:스트라드비젼-2026-06-30-3개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:🔓 스트라드비젼 3개월 락업해제 매도가능 (0.2%)
+DESCRIPTION:확약 만기일: 2026-09-30 (상장일 2026-06-30 + 3개월)\n해제 지분율: 공모 후 0.19%\n해제 주식 수: 99,250주\n매도 가능(추정): 2026-09-30 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:매드업-2026-07-01-3개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:🔓 매드업 3개월 락업해제 매도가능 (12.5%)
+DESCRIPTION:확약 만기일: 2026-10-01 (상장일 2026-07-01 + 3개월)\n해제 지분율: 공모 후 12.54%\n해제 주식 수: 2,350,612주\n매도 가능(추정): 2026-10-01 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:신한제17호스팩-2026-04-01-6개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:🔓 신한제17호스팩 6개월 락업해제 매도가능 (6.4%)
+DESCRIPTION:확약 만기일: 2026-10-01 (상장일 2026-04-01 + 6개월)\n해제 지분율: 공모 후 6.37%\n해제 주식 수: 340,000주\n매도 가능(추정): 2026-10-01 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:교보20호스팩-2026-04-02-6개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:🔓 교보20호스팩 6개월 락업해제 매도가능 (9.6%)
+DESCRIPTION:확약 만기일: 2026-10-02 (상장일 2026-04-02 + 6개월)\n해제 지분율: 공모 후 9.55%\n해제 주식 수: 570,000주\n매도 가능(추정): 2026-10-02 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:인벤테라-2026-04-02-6개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:🔓 인벤테라 6개월 락업해제 매도가능 (2.8%)
+DESCRIPTION:확약 만기일: 2026-10-02 (상장일 2026-04-02 + 6개월)\n해제 지분율: 공모 후 2.79%\n해제 주식 수: 219,430주\n매도 가능(추정): 2026-10-02 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:스카이랩스-2026-09-04-1개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:🔓 스카이랩스 1개월 락업해제 매도가능 (24.0%)
+DESCRIPTION:확약 만기일: 2026-10-04 (상장일 2026-09-04 + 1개월)\n해제 지분율: 공모 후 24.03%\n해제 주식 수: 4,502,203주\n매도 가능(추정): 2026-10-05 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:레몬헬스케어-2026-07-06-3개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:🔓 레몬헬스케어 3개월 락업해제 매도가능 (17.6%)
+DESCRIPTION:확약 만기일: 2026-10-06 (상장일 2026-07-06 + 3개월)\n해제 지분율: 공모 후 17.58%\n해제 주식 수: 2,347,012주\n매도 가능(추정): 2026-10-06 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:네오사피엔스-2026-09-21-15일@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:🔓 네오사피엔스 15일 락업해제 매도가능 (5.4%)
+DESCRIPTION:확약 만기일: 2026-10-06 (상장일 2026-09-21 + 15일)\n해제 지분율: 공모 후 5.41%\n해제 주식 수: 660,322주\n매도 가능(추정): 2026-10-06 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:와이즈플래닛컴퍼니-2026-09-23-15일@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:🔓 와이즈플래닛컴퍼니 15일 락업해제 매도가능 (5.4%)
+DESCRIPTION:확약 만기일: 2026-10-08 (상장일 2026-09-23 + 15일)\n해제 지분율: 공모 후 5.43%\n해제 주식 수: 543,406주\n매도 가능(추정): 2026-10-08 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:딜리셔스-2026-08-12-2개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:🔓 딜리셔스 2개월 락업해제 매도가능 (10.5%)
+DESCRIPTION:확약 만기일: 2026-10-12 (상장일 2026-08-12 + 2개월)\n해제 지분율: 공모 후 10.47%\n해제 주식 수: 2,289,279주\n매도 가능(추정): 2026-10-12 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:레메디-2026-07-13-3개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:🔓 레메디 3개월 락업해제 매도가능 (12.3%)
+DESCRIPTION:확약 만기일: 2026-10-13 (상장일 2026-07-13 + 3개월)\n해제 지분율: 공모 후 12.30%\n해제 주식 수: 937,898주\n매도 가능(추정): 2026-10-13 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:글로벌테크놀로지-2026-09-29-15일@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:🔓 글로벌테크놀로지 15일 락업해제 매도가능 (5.1%)
+DESCRIPTION:확약 만기일: 2026-10-14 (상장일 2026-09-29 + 15일)\n해제 지분율: 공모 후 5.06%\n해제 주식 수: 990,000주\n매도 가능(추정): 2026-10-14 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:빅웨이브로보틱스-2026-09-29-15일@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:🔓 빅웨이브로보틱스 15일 락업해제 매도가능 (3.0%)
+DESCRIPTION:확약 만기일: 2026-10-14 (상장일 2026-09-29 + 15일)\n해제 지분율: 공모 후 3.03%\n해제 주식 수: 311,650주\n매도 가능(추정): 2026-10-14 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:덕산넵코어스-2026-09-30-15일@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:🔓 덕산넵코어스 15일 락업해제 매도가능 (3.4%)
+DESCRIPTION:확약 만기일: 2026-10-15 (상장일 2026-09-30 + 15일)\n해제 지분율: 공모 후 3.38%\n해제 주식 수: 638,253주\n매도 가능(추정): 2026-10-15 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:브릴스-2026-10-01-15일@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:🔓 브릴스 15일 락업해제 매도가능 (2.8%)
+DESCRIPTION:확약 만기일: 2026-10-16 (상장일 2026-10-01 + 15일)\n해제 지분율: 공모 후 2.82%\n해제 주식 수: 320,765주\n매도 가능(추정): 2026-10-16 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:네오사피엔스-2026-09-21-1개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:🔓 네오사피엔스 1개월 락업해제 매도가능 (8.4%)
+DESCRIPTION:확약 만기일: 2026-10-21 (상장일 2026-09-21 + 1개월)\n해제 지분율: 공모 후 8.41%\n해제 주식 수: 1,025,700주\n매도 가능(추정): 2026-10-21 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:키움히어로제2호스팩-2026-04-23-6개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:🔓 키움히어로제2호스팩 6개월 락업해제 매도가능 (5.0%)
+DESCRIPTION:확약 만기일: 2026-10-23 (상장일 2026-04-23 + 6개월)\n해제 지분율: 공모 후 5.02%\n해제 주식 수: 317,000주\n매도 가능(추정): 2026-10-23 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:와이즈플래닛컴퍼니-2026-09-23-1개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:🔓 와이즈플래닛컴퍼니 1개월 락업해제 매도가능 (0.1%)
+DESCRIPTION:확약 만기일: 2026-10-23 (상장일 2026-09-23 + 1개월)\n해제 지분율: 공모 후 0.07%\n해제 주식 수: 7,223주\n매도 가능(추정): 2026-10-23 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:니어스랩-2026-08-24-2개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:🔓 니어스랩 2개월 락업해제 매도가능 (8.1%)
+DESCRIPTION:확약 만기일: 2026-10-24 (상장일 2026-08-24 + 2개월)\n해제 지분율: 공모 후 8.05%\n해제 주식 수: 464,331주\n매도 가능(추정): 2026-10-26 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:에이치엘지노믹스-2026-07-24-3개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:🔓 에이치엘지노믹스 3개월 락업해제 매도가능 (0.1%)
+DESCRIPTION:확약 만기일: 2026-10-24 (상장일 2026-07-24 + 3개월)\n해제 지분율: 공모 후 0.13%\n해제 주식 수: 9,935주\n매도 가능(추정): 2026-10-26 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:채비-2026-04-29-6개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:🔓 채비 6개월 락업해제 매도가능 (34.7%)
+DESCRIPTION:확약 만기일: 2026-10-29 (상장일 2026-04-29 + 6개월)\n해제 지분율: 공모 후 34.66%\n해제 주식 수: 16,184,050주\n매도 가능(추정): 2026-10-29 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:글로벌테크놀로지-2026-09-29-1개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:🔓 글로벌테크놀로지 1개월 락업해제 매도가능 (9.8%)
+DESCRIPTION:확약 만기일: 2026-10-29 (상장일 2026-09-29 + 1개월)\n해제 지분율: 공모 후 9.77%\n해제 주식 수: 1,913,156주\n매도 가능(추정): 2026-10-29 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:빅웨이브로보틱스-2026-09-29-1개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:🔓 빅웨이브로보틱스 1개월 락업해제 매도가능 (9.4%)
+DESCRIPTION:확약 만기일: 2026-10-29 (상장일 2026-09-29 + 1개월)\n해제 지분율: 공모 후 9.41%\n해제 주식 수: 966,116주\n매도 가능(추정): 2026-10-29 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:신한제18호스팩-2026-04-30-6개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:🔓 신한제18호스팩 6개월 락업해제 매도가능 (13.9%)
+DESCRIPTION:확약 만기일: 2026-10-30 (상장일 2026-04-30 + 6개월)\n해제 지분율: 공모 후 13.92%\n해제 주식 수: 781,813주\n매도 가능(추정): 2026-10-30 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:덕산넵코어스-2026-09-30-1개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:🔓 덕산넵코어스 1개월 락업해제 매도가능 (0.9%)
+DESCRIPTION:확약 만기일: 2026-10-30 (상장일 2026-09-30 + 1개월)\n해제 지분율: 공모 후 0.91%\n해제 주식 수: 171,508주\n매도 가능(추정): 2026-10-30 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:브릴스-2026-10-01-1개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:🔓 브릴스 1개월 락업해제 매도가능 (7.4%)
+DESCRIPTION:확약 만기일: 2026-11-01 (상장일 2026-10-01 + 1개월)\n해제 지분율: 공모 후 7.39%\n해제 주식 수: 840,204주\n매도 가능(추정): 2026-11-02 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:스카이랩스-2026-09-04-2개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:🔓 스카이랩스 2개월 락업해제 매도가능 (3.2%)
+DESCRIPTION:확약 만기일: 2026-11-04 (상장일 2026-09-04 + 2개월)\n해제 지분율: 공모 후 3.23%\n해제 주식 수: 604,559주\n매도 가능(추정): 2026-11-04 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:딜리셔스-2026-08-12-3개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:🔓 딜리셔스 3개월 락업해제 매도가능 (11.1%)
+DESCRIPTION:확약 만기일: 2026-11-12 (상장일 2026-08-12 + 3개월)\n해제 지분율: 공모 후 11.11%\n해제 주식 수: 2,428,648주\n매도 가능(추정): 2026-11-12 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:케이앤에스아이앤씨-2026-08-13-3개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:🔓 케이앤에스아이앤씨 3개월 락업해제 매도가능 (1.8%)
+DESCRIPTION:확약 만기일: 2026-11-13 (상장일 2026-08-13 + 3개월)\n해제 지분율: 공모 후 1.78%\n해제 주식 수: 183,110주\n매도 가능(추정): 2026-11-13 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:폴레드-2026-05-14-6개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:🔓 폴레드 6개월 락업해제 매도가능 (1.9%)
+DESCRIPTION:확약 만기일: 2026-11-14 (상장일 2026-05-14 + 6개월)\n해제 지분율: 공모 후 1.92%\n해제 주식 수: 483,500주\n매도 가능(추정): 2026-11-16 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:인제니아테라퓨틱스-2026-08-18-3개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:🔓 인제니아테라퓨틱스 3개월 락업해제 매도가능 (4.4%)
+DESCRIPTION:확약 만기일: 2026-11-18 (상장일 2026-08-18 + 3개월)\n해제 지분율: 공모 후 4.42%\n해제 주식 수: 2,185,459주\n매도 가능(추정): 2026-11-18 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:마키나락스-2026-05-20-6개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:🔓 마키나락스 6개월 락업해제 매도가능 (13.7%)
+DESCRIPTION:확약 만기일: 2026-11-20 (상장일 2026-05-20 + 6개월)\n해제 지분율: 공모 후 13.71%\n해제 주식 수: 2,406,900주\n매도 가능(추정): 2026-11-20 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:네오사피엔스-2026-09-21-2개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:🔓 네오사피엔스 2개월 락업해제 매도가능 (9.4%)
+DESCRIPTION:확약 만기일: 2026-11-21 (상장일 2026-09-21 + 2개월)\n해제 지분율: 공모 후 9.38%\n해제 주식 수: 1,143,690주\n매도 가능(추정): 2026-11-23 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:니어스랩-2026-08-24-3개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:🔓 니어스랩 3개월 락업해제 매도가능 (14.0%)
+DESCRIPTION:확약 만기일: 2026-11-24 (상장일 2026-08-24 + 3개월)\n해제 지분율: 공모 후 13.96%\n해제 주식 수: 806,301주\n매도 가능(추정): 2026-11-24 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:해치텍-2026-08-25-3개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:🔓 해치텍 3개월 락업해제 매도가능 (2.9%)
+DESCRIPTION:확약 만기일: 2026-11-25 (상장일 2026-08-25 + 3개월)\n해제 지분율: 공모 후 2.85%\n해제 주식 수: 156,673주\n매도 가능(추정): 2026-11-25 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:덕산넵코어스-2026-09-30-2개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:🔓 덕산넵코어스 2개월 락업해제 매도가능 (4.8%)
+DESCRIPTION:확약 만기일: 2026-11-30 (상장일 2026-09-30 + 2개월)\n해제 지분율: 공모 후 4.78%\n해제 주식 수: 902,078주\n매도 가능(추정): 2026-11-30 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:브릴스-2026-10-01-2개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:🔓 브릴스 2개월 락업해제 매도가능 (6.8%)
+DESCRIPTION:확약 만기일: 2026-12-01 (상장일 2026-10-01 + 2개월)\n해제 지분율: 공모 후 6.84%\n해제 주식 수: 777,017주\n매도 가능(추정): 2026-12-01 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:스카이랩스-2026-09-04-3개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:🔓 스카이랩스 3개월 락업해제 매도가능 (22.2%)
+DESCRIPTION:확약 만기일: 2026-12-04 (상장일 2026-09-04 + 3개월)\n해제 지분율: 공모 후 22.24%\n해제 주식 수: 4,167,846주\n매도 가능(추정): 2026-12-04 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:대신밸런스제20호스팩-2026-06-05-6개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:🔓 대신밸런스제20호스팩 6개월 락업해제 매도가능 (13.6%)
+DESCRIPTION:확약 만기일: 2026-12-05 (상장일 2026-06-05 + 6개월)\n해제 지분율: 공모 후 13.55%\n해제 주식 수: 913,424주\n매도 가능(추정): 2026-12-07 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:피스피스스튜디오-2026-06-08-6개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:🔓 피스피스스튜디오 6개월 락업해제 매도가능 (5.7%)
+DESCRIPTION:확약 만기일: 2026-12-08 (상장일 2026-06-08 + 6개월)\n해제 지분율: 공모 후 5.67%\n해제 주식 수: 803,672주\n매도 가능(추정): 2026-12-08 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:엔에이치스팩34호-2026-09-10-3개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:🔓 엔에이치스팩34호 3개월 락업해제 매도가능 (3.9%)
+DESCRIPTION:확약 만기일: 2026-12-10 (상장일 2026-09-10 + 3개월)\n해제 지분율: 공모 후 3.87%\n해제 주식 수: 350,000주\n매도 가능(추정): 2026-12-10 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:메리츠제2호스팩-2026-06-19-6개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:🔓 메리츠제2호스팩 6개월 락업해제 매도가능 (3.3%)
+DESCRIPTION:확약 만기일: 2026-12-19 (상장일 2026-06-19 + 6개월)\n해제 지분율: 공모 후 3.31%\n해제 주식 수: 240,000주\n매도 가능(추정): 2026-12-21 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:네오사피엔스-2026-09-21-3개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:🔓 네오사피엔스 3개월 락업해제 매도가능 (15.2%)
+DESCRIPTION:확약 만기일: 2026-12-21 (상장일 2026-09-21 + 3개월)\n해제 지분율: 공모 후 15.20%\n해제 주식 수: 1,854,375주\n매도 가능(추정): 2026-12-21 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:한국제17호스팩-2026-09-22-3개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:🔓 한국제17호스팩 3개월 락업해제 매도가능 (0.1%)
+DESCRIPTION:확약 만기일: 2026-12-22 (상장일 2026-09-22 + 3개월)\n해제 지분율: 공모 후 0.06%\n해제 주식 수: 5,000주\n매도 가능(추정): 2026-12-22 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:와이즈플래닛컴퍼니-2026-09-23-3개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:🔓 와이즈플래닛컴퍼니 3개월 락업해제 매도가능 (2.5%)
+DESCRIPTION:확약 만기일: 2026-12-23 (상장일 2026-09-23 + 3개월)\n해제 지분율: 공모 후 2.45%\n해제 주식 수: 245,563주\n매도 가능(추정): 2026-12-23 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:빅웨이브로보틱스-2026-09-29-3개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:🔓 빅웨이브로보틱스 3개월 락업해제 매도가능 (9.3%)
+DESCRIPTION:확약 만기일: 2026-12-29 (상장일 2026-09-29 + 3개월)\n해제 지분율: 공모 후 9.33%\n해제 주식 수: 958,180주\n매도 가능(추정): 2026-12-29 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:져스텍-2026-06-29-6개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:🔓 져스텍 6개월 락업해제 매도가능 (1.6%)
+DESCRIPTION:확약 만기일: 2026-12-29 (상장일 2026-06-29 + 6개월)\n해제 지분율: 공모 후 1.59%\n해제 주식 수: 192,075주\n매도 가능(추정): 2026-12-29 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:글로벌테크놀로지-2026-09-29-3개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:🔓 글로벌테크놀로지 3개월 락업해제 매도가능 (0.4%)
+DESCRIPTION:확약 만기일: 2026-12-29 (상장일 2026-09-29 + 3개월)\n해제 지분율: 공모 후 0.39%\n해제 주식 수: 76,923주\n매도 가능(추정): 2026-12-29 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:한국제16호스팩-2026-06-30-6개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:🔓 한국제16호스팩 6개월 락업해제 매도가능 (21.5%)
+DESCRIPTION:확약 만기일: 2026-12-30 (상장일 2026-06-30 + 6개월)\n해제 지분율: 공모 후 21.47%\n해제 주식 수: 1,450,000주\n매도 가능(추정): 2026-12-30 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:덕산넵코어스-2026-09-30-3개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:🔓 덕산넵코어스 3개월 락업해제 매도가능 (3.2%)
+DESCRIPTION:확약 만기일: 2026-12-30 (상장일 2026-09-30 + 3개월)\n해제 지분율: 공모 후 3.24%\n해제 주식 수: 609,836주\n매도 가능(추정): 2026-12-30 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:스트라드비젼-2026-06-30-6개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:🔓 스트라드비젼 6개월 락업해제 매도가능 (2.4%)
+DESCRIPTION:확약 만기일: 2026-12-30 (상장일 2026-06-30 + 6개월)\n해제 지분율: 공모 후 2.39%\n해제 주식 수: 1,271,808주\n매도 가능(추정): 2026-12-30 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:브릴스-2026-10-01-3개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:🔓 브릴스 3개월 락업해제 매도가능 (13.5%)
+DESCRIPTION:확약 만기일: 2027-01-01 (상장일 2026-10-01 + 3개월)\n해제 지분율: 공모 후 13.51%\n해제 주식 수: 1,533,999주\n매도 가능(추정): 2027-01-01 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:매드업-2026-07-01-6개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:🔓 매드업 6개월 락업해제 매도가능 (5.4%)
+DESCRIPTION:확약 만기일: 2027-01-01 (상장일 2026-07-01 + 6개월)\n해제 지분율: 공모 후 5.36%\n해제 주식 수: 1,004,876주\n매도 가능(추정): 2027-01-01 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:레몬헬스케어-2026-07-06-6개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:🔓 레몬헬스케어 6개월 락업해제 매도가능 (2.2%)
+DESCRIPTION:확약 만기일: 2027-01-06 (상장일 2026-07-06 + 6개월)\n해제 지분율: 공모 후 2.22%\n해제 주식 수: 296,514주\n매도 가능(추정): 2027-01-06 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:레메디-2026-07-13-6개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:🔓 레메디 6개월 락업해제 매도가능 (0.8%)
+DESCRIPTION:확약 만기일: 2027-01-13 (상장일 2026-07-13 + 6개월)\n해제 지분율: 공모 후 0.85%\n해제 주식 수: 65,012주\n매도 가능(추정): 2027-01-13 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:에이치엘지노믹스-2026-07-24-6개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+SUMMARY:🔓 에이치엘지노믹스 6개월 락업해제 매도가능 (2.9%)
+DESCRIPTION:확약 만기일: 2027-01-24 (상장일 2026-07-24 + 6개월)\n해제 지분율: 공모 후 2.91%\n해제 주식 수: 226,269주\n매도 가능(추정): 2027-01-25 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:딜리셔스-2026-08-12-6개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:🔓 딜리셔스 6개월 락업해제 매도가능 (2.9%)
+DESCRIPTION:확약 만기일: 2027-02-12 (상장일 2026-08-12 + 6개월)\n해제 지분율: 공모 후 2.85%\n해제 주식 수: 623,232주\n매도 가능(추정): 2027-02-12 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:인제니아테라퓨틱스-2026-08-18-6개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:🔓 인제니아테라퓨틱스 6개월 락업해제 매도가능 (1.2%)
+DESCRIPTION:확약 만기일: 2027-02-18 (상장일 2026-08-18 + 6개월)\n해제 지분율: 공모 후 1.24%\n해제 주식 수: 611,391주\n매도 가능(추정): 2027-02-18 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:기도산업-2026-08-21-6개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+SUMMARY:🔓 기도산업 6개월 락업해제 매도가능 (9.1%)
+DESCRIPTION:확약 만기일: 2027-02-21 (상장일 2026-08-21 + 6개월)\n해제 지분율: 공모 후 9.06%\n해제 주식 수: 529,557주\n매도 가능(추정): 2027-02-22 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:니어스랩-2026-08-24-6개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:🔓 니어스랩 6개월 락업해제 매도가능 (0.5%)
+DESCRIPTION:확약 만기일: 2027-02-24 (상장일 2026-08-24 + 6개월)\n해제 지분율: 공모 후 0.46%\n해제 주식 수: 26,282주\n매도 가능(추정): 2027-02-24 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:엔에이치스팩34호-2026-09-10-6개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:🔓 엔에이치스팩34호 6개월 락업해제 매도가능 (6.1%)
+DESCRIPTION:확약 만기일: 2027-03-10 (상장일 2026-09-10 + 6개월)\n해제 지분율: 공모 후 6.08%\n해제 주식 수: 550,000주\n매도 가능(추정): 2027-03-10 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:한국제17호스팩-2026-09-22-6개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:🔓 한국제17호스팩 6개월 락업해제 매도가능 (19.5%)
+DESCRIPTION:확약 만기일: 2027-03-22 (상장일 2026-09-22 + 6개월)\n해제 지분율: 공모 후 19.53%\n해제 주식 수: 1,700,000주\n매도 가능(추정): 2027-03-22 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:케이비제34호스팩-2026-09-22-6개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:🔓 케이비제34호스팩 6개월 락업해제 매도가능 (2.9%)
+DESCRIPTION:확약 만기일: 2027-03-22 (상장일 2026-09-22 + 6개월)\n해제 지분율: 공모 후 2.91%\n해제 주식 수: 210,000주\n매도 가능(추정): 2027-03-22 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:와이즈플래닛컴퍼니-2026-09-23-6개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
+SUMMARY:🔓 와이즈플래닛컴퍼니 6개월 락업해제 매도가능 (16.2%)
+DESCRIPTION:확약 만기일: 2027-03-23 (상장일 2026-09-23 + 6개월)\n해제 지분율: 공모 후 16.20%\n해제 주식 수: 1,620,882주\n매도 가능(추정): 2027-03-23 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:빅웨이브로보틱스-2026-09-29-6개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:🔓 빅웨이브로보틱스 6개월 락업해제 매도가능 (1.6%)
+DESCRIPTION:확약 만기일: 2027-03-29 (상장일 2026-09-29 + 6개월)\n해제 지분율: 공모 후 1.56%\n해제 주식 수: 159,800주\n매도 가능(추정): 2027-03-29 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:덕산넵코어스-2026-09-30-6개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+SUMMARY:🔓 덕산넵코어스 6개월 락업해제 매도가능 (1.4%)
+DESCRIPTION:확약 만기일: 2027-03-30 (상장일 2026-09-30 + 6개월)\n해제 지분율: 공모 후 1.39%\n해제 주식 수: 261,647주\n매도 가능(추정): 2027-03-30 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+BEGIN:VEVENT
+UID:브릴스-2026-10-01-6개월@ipo-lockup-calendar
+DTSTAMP:20261007T010035Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+SUMMARY:🔓 브릴스 6개월 락업해제 매도가능 (4.5%)
+DESCRIPTION:확약 만기일: 2027-04-01 (상장일 2026-10-01 + 6개월)\n해제 지분율: 공모 후 4.50%\n해제 주식 수: 511,063주\n매도 가능(추정): 2027-04-01 — 예탁원 처리에 따라 ±1영업일 차이 가능
+END:VEVENT
+END:VCALENDAR
