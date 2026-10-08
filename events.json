@@ -1,23 +1,5 @@
 [
  {
-  "company": "리센스메디컬",
-  "listing_date": "2026-03-31",
-  "period": "6개월",
-  "release_date": "2026-09-30",
-  "tradable_date": "2026-09-30",
-  "ratio_pct": 3.04,
-  "shares": 329994
- },
- {
-  "company": "스트라드비젼",
-  "listing_date": "2026-06-30",
-  "period": "3개월",
-  "release_date": "2026-09-30",
-  "tradable_date": "2026-09-30",
-  "ratio_pct": 0.19,
-  "shares": 99250
- },
- {
   "company": "매드업",
   "listing_date": "2026-07-01",
   "period": "3개월",
