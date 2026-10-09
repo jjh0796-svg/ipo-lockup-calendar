@@ -1,23 +1,5 @@
 [
  {
-  "company": "매드업",
-  "listing_date": "2026-07-01",
-  "period": "3개월",
-  "release_date": "2026-10-01",
-  "tradable_date": "2026-10-01",
-  "ratio_pct": 12.54,
-  "shares": 2350612
- },
- {
-  "company": "신한제17호스팩",
-  "listing_date": "2026-04-01",
-  "period": "6개월",
-  "release_date": "2026-10-01",
-  "tradable_date": "2026-10-01",
-  "ratio_pct": 6.37,
-  "shares": 340000
- },
- {
   "company": "교보20호스팩",
   "listing_date": "2026-04-02",
   "period": "6개월",
