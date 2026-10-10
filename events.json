@@ -1,23 +1,5 @@
 [
  {
-  "company": "교보20호스팩",
-  "listing_date": "2026-04-02",
-  "period": "6개월",
-  "release_date": "2026-10-02",
-  "tradable_date": "2026-10-02",
-  "ratio_pct": 9.55,
-  "shares": 570000
- },
- {
-  "company": "인벤테라",
-  "listing_date": "2026-04-02",
-  "period": "6개월",
-  "release_date": "2026-10-02",
-  "tradable_date": "2026-10-02",
-  "ratio_pct": 2.79,
-  "shares": 219430
- },
- {
   "company": "스카이랩스",
   "listing_date": "2026-09-04",
   "period": "1개월",
