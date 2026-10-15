@@ -144,6 +144,24 @@
   "shares": 781813
  },
  {
+  "company": "멜콘",
+  "listing_date": "2026-10-15",
+  "period": "15일",
+  "release_date": "2026-10-30",
+  "tradable_date": "2026-10-30",
+  "ratio_pct": 5.99,
+  "shares": 753847
+ },
+ {
+  "company": "진코스텍",
+  "listing_date": "2026-10-15",
+  "period": "15일",
+  "release_date": "2026-10-30",
+  "tradable_date": "2026-10-30",
+  "ratio_pct": 2.49,
+  "shares": 94117
+ },
+ {
   "company": "덕산넵코어스",
   "listing_date": "2026-09-30",
   "period": "1개월",
@@ -196,6 +214,24 @@
   "tradable_date": "2026-11-16",
   "ratio_pct": 1.92,
   "shares": 483500
+ },
+ {
+  "company": "멜콘",
+  "listing_date": "2026-10-15",
+  "period": "1개월",
+  "release_date": "2026-11-15",
+  "tradable_date": "2026-11-16",
+  "ratio_pct": 2.03,
+  "shares": 255768
+ },
+ {
+  "company": "진코스텍",
+  "listing_date": "2026-10-15",
+  "period": "1개월",
+  "release_date": "2026-11-15",
+  "tradable_date": "2026-11-16",
+  "ratio_pct": 1.44,
+  "shares": 54686
  },
  {
   "company": "인제니아테라퓨틱스",
@@ -423,6 +459,24 @@
   "shares": 65012
  },
  {
+  "company": "진코스텍",
+  "listing_date": "2026-10-15",
+  "period": "3개월",
+  "release_date": "2027-01-15",
+  "tradable_date": "2027-01-15",
+  "ratio_pct": 6.04,
+  "shares": 228659
+ },
+ {
+  "company": "멜콘",
+  "listing_date": "2026-10-15",
+  "period": "3개월",
+  "release_date": "2027-01-15",
+  "tradable_date": "2027-01-15",
+  "ratio_pct": 2.36,
+  "shares": 296616
+ },
+ {
   "company": "에이치엘지노믹스",
   "listing_date": "2026-07-24",
   "period": "6개월",
@@ -529,5 +583,23 @@
   "tradable_date": "2027-04-01",
   "ratio_pct": 4.5,
   "shares": 511063
+ },
+ {
+  "company": "진코스텍",
+  "listing_date": "2026-10-15",
+  "period": "6개월",
+  "release_date": "2027-04-15",
+  "tradable_date": "2027-04-15",
+  "ratio_pct": 4.57,
+  "shares": 172850
+ },
+ {
+  "company": "멜콘",
+  "listing_date": "2026-10-15",
+  "period": "6개월",
+  "release_date": "2027-04-15",
+  "tradable_date": "2027-04-15",
+  "ratio_pct": 0.94,
+  "shares": 118138
  }
 ]
