@@ -1,14 +1,5 @@
 [
  {
-  "company": "딜리셔스",
-  "listing_date": "2026-08-12",
-  "period": "2개월",
-  "release_date": "2026-10-12",
-  "tradable_date": "2026-10-12",
-  "ratio_pct": 10.47,
-  "shares": 2289279
- },
- {
   "company": "레메디",
   "listing_date": "2026-07-13",
   "period": "3개월",
@@ -180,6 +171,15 @@
   "shares": 604559
  },
  {
+  "company": "엘리스그룹",
+  "listing_date": "2026-10-20",
+  "period": "15일",
+  "release_date": "2026-11-04",
+  "tradable_date": "2026-11-04",
+  "ratio_pct": 3.04,
+  "shares": 337383
+ },
+ {
   "company": "딜리셔스",
   "listing_date": "2026-08-12",
   "period": "3개월",
@@ -241,6 +241,15 @@
   "tradable_date": "2026-11-20",
   "ratio_pct": 13.71,
   "shares": 2406900
+ },
+ {
+  "company": "엘리스그룹",
+  "listing_date": "2026-10-20",
+  "period": "1개월",
+  "release_date": "2026-11-20",
+  "tradable_date": "2026-11-20",
+  "ratio_pct": 12.27,
+  "shares": 1363805
  },
  {
   "company": "네오사피엔스",
@@ -468,6 +477,15 @@
   "shares": 296616
  },
  {
+  "company": "엘리스그룹",
+  "listing_date": "2026-10-20",
+  "period": "3개월",
+  "release_date": "2027-01-20",
+  "tradable_date": "2027-01-20",
+  "ratio_pct": 1.41,
+  "shares": 157856
+ },
+ {
   "company": "에이치엘지노믹스",
   "listing_date": "2026-07-24",
   "period": "6개월",
@@ -592,5 +610,14 @@
   "tradable_date": "2027-04-15",
   "ratio_pct": 0.94,
   "shares": 118138
+ },
+ {
+  "company": "엘리스그룹",
+  "listing_date": "2026-10-20",
+  "period": "6개월",
+  "release_date": "2027-04-20",
+  "tradable_date": "2027-04-20",
+  "ratio_pct": 18.63,
+  "shares": 2069769
  }
 ]
