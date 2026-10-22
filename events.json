@@ -1,23 +1,5 @@
 [
  {
-  "company": "글로벌테크놀로지",
-  "listing_date": "2026-09-29",
-  "period": "15일",
-  "release_date": "2026-10-14",
-  "tradable_date": "2026-10-14",
-  "ratio_pct": 5.06,
-  "shares": 990000
- },
- {
-  "company": "빅웨이브로보틱스",
-  "listing_date": "2026-09-29",
-  "period": "15일",
-  "release_date": "2026-10-14",
-  "tradable_date": "2026-10-14",
-  "ratio_pct": 3.03,
-  "shares": 311650
- },
- {
   "company": "덕산넵코어스",
   "listing_date": "2026-09-30",
   "period": "15일",
@@ -171,6 +153,15 @@
   "shares": 337383
  },
  {
+  "company": "엠에스바이오",
+  "listing_date": "2026-10-22",
+  "period": "15일",
+  "release_date": "2026-11-06",
+  "tradable_date": "2026-11-06",
+  "ratio_pct": 2.65,
+  "shares": 720765
+ },
+ {
   "company": "딜리셔스",
   "listing_date": "2026-08-12",
   "period": "3개월",
@@ -250,6 +241,15 @@
   "tradable_date": "2026-11-23",
   "ratio_pct": 9.38,
   "shares": 1143690
+ },
+ {
+  "company": "엠에스바이오",
+  "listing_date": "2026-10-22",
+  "period": "1개월",
+  "release_date": "2026-11-22",
+  "tradable_date": "2026-11-23",
+  "ratio_pct": 3.66,
+  "shares": 996974
  },
  {
   "company": "니어스랩",
@@ -477,6 +477,15 @@
   "shares": 157856
  },
  {
+  "company": "엠에스바이오",
+  "listing_date": "2026-10-22",
+  "period": "3개월",
+  "release_date": "2027-01-22",
+  "tradable_date": "2027-01-22",
+  "ratio_pct": 22.89,
+  "shares": 6226525
+ },
+ {
   "company": "에이치엘지노믹스",
   "listing_date": "2026-07-24",
   "period": "6개월",
@@ -610,5 +619,14 @@
   "tradable_date": "2027-04-20",
   "ratio_pct": 18.63,
   "shares": 2069769
+ },
+ {
+  "company": "엠에스바이오",
+  "listing_date": "2026-10-22",
+  "period": "6개월",
+  "release_date": "2027-04-22",
+  "tradable_date": "2027-04-22",
+  "ratio_pct": 7.84,
+  "shares": 2133922
  }
 ]
