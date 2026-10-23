@@ -1,14 +1,5 @@
 [
  {
-  "company": "덕산넵코어스",
-  "listing_date": "2026-09-30",
-  "period": "15일",
-  "release_date": "2026-10-15",
-  "tradable_date": "2026-10-15",
-  "ratio_pct": 3.38,
-  "shares": 638253
- },
- {
   "company": "브릴스",
   "listing_date": "2026-10-01",
   "period": "15일",
@@ -162,6 +153,15 @@
   "shares": 720765
  },
  {
+  "company": "디티에스",
+  "listing_date": "2026-10-23",
+  "period": "15일",
+  "release_date": "2026-11-07",
+  "tradable_date": "2026-11-09",
+  "ratio_pct": 4.23,
+  "shares": 628360
+ },
+ {
   "company": "딜리셔스",
   "listing_date": "2026-08-12",
   "period": "3개월",
@@ -250,6 +250,15 @@
   "tradable_date": "2026-11-23",
   "ratio_pct": 3.66,
   "shares": 996974
+ },
+ {
+  "company": "디티에스",
+  "listing_date": "2026-10-23",
+  "period": "1개월",
+  "release_date": "2026-11-23",
+  "tradable_date": "2026-11-23",
+  "ratio_pct": 1.26,
+  "shares": 187752
  },
  {
   "company": "니어스랩",
@@ -486,6 +495,15 @@
   "shares": 6226525
  },
  {
+  "company": "디티에스",
+  "listing_date": "2026-10-23",
+  "period": "3개월",
+  "release_date": "2027-01-23",
+  "tradable_date": "2027-01-25",
+  "ratio_pct": 7.74,
+  "shares": 1150712
+ },
+ {
   "company": "에이치엘지노믹스",
   "listing_date": "2026-07-24",
   "period": "6개월",
@@ -628,5 +646,14 @@
   "tradable_date": "2027-04-22",
   "ratio_pct": 7.84,
   "shares": 2133922
+ },
+ {
+  "company": "디티에스",
+  "listing_date": "2026-10-23",
+  "period": "6개월",
+  "release_date": "2027-04-23",
+  "tradable_date": "2027-04-23",
+  "ratio_pct": 26.0,
+  "shares": 3863223
  }
 ]
