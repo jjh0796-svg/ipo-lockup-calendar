@@ -1,14 +1,5 @@
 [
  {
-  "company": "브릴스",
-  "listing_date": "2026-10-01",
-  "period": "15일",
-  "release_date": "2026-10-16",
-  "tradable_date": "2026-10-16",
-  "ratio_pct": 2.82,
-  "shares": 320765
- },
- {
   "company": "네오사피엔스",
   "listing_date": "2026-09-21",
   "period": "1개월",
