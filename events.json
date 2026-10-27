@@ -646,5 +646,14 @@
   "tradable_date": "2027-04-23",
   "ratio_pct": 26.0,
   "shares": 3863223
+ },
+ {
+  "company": "에스케이증권제14호스팩",
+  "listing_date": "2026-10-27",
+  "period": "6개월",
+  "release_date": "2027-04-27",
+  "tradable_date": "2027-04-27",
+  "ratio_pct": 13.37,
+  "shares": 893023
  }
 ]
