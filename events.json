@@ -171,6 +171,15 @@
   "shares": 183110
  },
  {
+  "company": "인텔리빅스",
+  "listing_date": "2026-10-30",
+  "period": "15일",
+  "release_date": "2026-11-14",
+  "tradable_date": "2026-11-16",
+  "ratio_pct": 7.53,
+  "shares": 853824
+ },
+ {
   "company": "폴레드",
   "listing_date": "2026-05-14",
   "period": "6개월",
@@ -178,6 +187,15 @@
   "tradable_date": "2026-11-16",
   "ratio_pct": 1.92,
   "shares": 483500
+ },
+ {
+  "company": "크리에이츠",
+  "listing_date": "2026-10-30",
+  "period": "15일",
+  "release_date": "2026-11-14",
+  "tradable_date": "2026-11-16",
+  "ratio_pct": 0.04,
+  "shares": 5000
  },
  {
   "company": "멜콘",
@@ -286,6 +304,15 @@
   "tradable_date": "2026-11-30",
   "ratio_pct": 4.78,
   "shares": 902078
+ },
+ {
+  "company": "인텔리빅스",
+  "listing_date": "2026-10-30",
+  "period": "1개월",
+  "release_date": "2026-11-30",
+  "tradable_date": "2026-11-30",
+  "ratio_pct": 1.53,
+  "shares": 173890
  },
  {
   "company": "브릴스",
@@ -414,6 +441,15 @@
   "shares": 1450000
  },
  {
+  "company": "크리에이츠",
+  "listing_date": "2026-10-30",
+  "period": "2개월",
+  "release_date": "2026-12-30",
+  "tradable_date": "2026-12-30",
+  "ratio_pct": 5.51,
+  "shares": 722561
+ },
+ {
   "company": "덕산넵코어스",
   "listing_date": "2026-09-30",
   "period": "3개월",
@@ -529,6 +565,24 @@
   "tradable_date": "2027-01-29",
   "ratio_pct": 10.62,
   "shares": 1206716
+ },
+ {
+  "company": "크리에이츠",
+  "listing_date": "2026-10-30",
+  "period": "3개월",
+  "release_date": "2027-01-30",
+  "tradable_date": "2027-02-01",
+  "ratio_pct": 4.81,
+  "shares": 631077
+ },
+ {
+  "company": "인텔리빅스",
+  "listing_date": "2026-10-30",
+  "period": "3개월",
+  "release_date": "2027-01-30",
+  "tradable_date": "2027-02-01",
+  "ratio_pct": 2.27,
+  "shares": 257830
  },
  {
   "company": "딜리셔스",
@@ -691,5 +745,32 @@
   "tradable_date": "2027-04-29",
   "ratio_pct": 5.4,
   "shares": 613426
+ },
+ {
+  "company": "인텔리빅스",
+  "listing_date": "2026-10-30",
+  "period": "6개월",
+  "release_date": "2027-04-30",
+  "tradable_date": "2027-04-30",
+  "ratio_pct": 16.65,
+  "shares": 1886716
+ },
+ {
+  "company": "한화플러스제6호스팩",
+  "listing_date": "2026-10-30",
+  "period": "6개월",
+  "release_date": "2027-04-30",
+  "tradable_date": "2027-04-30",
+  "ratio_pct": 6.4,
+  "shares": 410000
+ },
+ {
+  "company": "크리에이츠",
+  "listing_date": "2026-10-30",
+  "period": "6개월",
+  "release_date": "2027-04-30",
+  "tradable_date": "2027-04-30",
+  "ratio_pct": 3.14,
+  "shares": 411910
  }
 ]
