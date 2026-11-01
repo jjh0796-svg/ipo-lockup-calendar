@@ -1,23 +1,5 @@
 [
  {
-  "company": "니어스랩",
-  "listing_date": "2026-08-24",
-  "period": "2개월",
-  "release_date": "2026-10-24",
-  "tradable_date": "2026-10-26",
-  "ratio_pct": 8.05,
-  "shares": 464331
- },
- {
-  "company": "에이치엘지노믹스",
-  "listing_date": "2026-07-24",
-  "period": "3개월",
-  "release_date": "2026-10-24",
-  "tradable_date": "2026-10-26",
-  "ratio_pct": 0.13,
-  "shares": 9935
- },
- {
   "company": "채비",
   "listing_date": "2026-04-29",
   "period": "6개월",
