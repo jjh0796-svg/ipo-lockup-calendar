@@ -180,6 +180,15 @@
   "shares": 54686
  },
  {
+  "company": "영광",
+  "listing_date": "2026-11-02",
+  "period": "15일",
+  "release_date": "2026-11-17",
+  "tradable_date": "2026-11-17",
+  "ratio_pct": 2.46,
+  "shares": 222850
+ },
+ {
   "company": "인제니아테라퓨틱스",
   "listing_date": "2026-08-18",
   "period": "3개월",
@@ -549,6 +558,15 @@
   "shares": 257830
  },
  {
+  "company": "영광",
+  "listing_date": "2026-11-02",
+  "period": "3개월",
+  "release_date": "2027-02-02",
+  "tradable_date": "2027-02-02",
+  "ratio_pct": 2.74,
+  "shares": 247655
+ },
+ {
   "company": "딜리셔스",
   "listing_date": "2026-08-12",
   "period": "6개월",
@@ -736,5 +754,14 @@
   "tradable_date": "2027-04-30",
   "ratio_pct": 3.14,
   "shares": 411910
+ },
+ {
+  "company": "영광",
+  "listing_date": "2026-11-02",
+  "period": "6개월",
+  "release_date": "2027-05-02",
+  "tradable_date": "2027-05-03",
+  "ratio_pct": 8.04,
+  "shares": 727391
  }
 ]
