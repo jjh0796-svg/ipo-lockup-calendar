@@ -198,6 +198,15 @@
   "shares": 2185459
  },
  {
+  "company": "래블업",
+  "listing_date": "2026-11-03",
+  "period": "15일",
+  "release_date": "2026-11-18",
+  "tradable_date": "2026-11-18",
+  "ratio_pct": 1.1,
+  "shares": 160000
+ },
+ {
   "company": "마키나락스",
   "listing_date": "2026-05-20",
   "period": "6개월",
@@ -295,6 +304,15 @@
   "tradable_date": "2026-12-01",
   "ratio_pct": 6.84,
   "shares": 777017
+ },
+ {
+  "company": "래블업",
+  "listing_date": "2026-11-03",
+  "period": "1개월",
+  "release_date": "2026-12-03",
+  "tradable_date": "2026-12-03",
+  "ratio_pct": 5.19,
+  "shares": 754678
  },
  {
   "company": "스카이랩스",
@@ -565,6 +583,15 @@
   "tradable_date": "2027-02-02",
   "ratio_pct": 2.74,
   "shares": 247655
+ },
+ {
+  "company": "래블업",
+  "listing_date": "2026-11-03",
+  "period": "3개월",
+  "release_date": "2027-02-03",
+  "tradable_date": "2027-02-03",
+  "ratio_pct": 5.81,
+  "shares": 845684
  },
  {
   "company": "딜리셔스",
