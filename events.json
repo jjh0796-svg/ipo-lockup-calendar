@@ -1,32 +1,5 @@
 [
  {
-  "company": "채비",
-  "listing_date": "2026-04-29",
-  "period": "6개월",
-  "release_date": "2026-10-29",
-  "tradable_date": "2026-10-29",
-  "ratio_pct": 34.66,
-  "shares": 16184050
- },
- {
-  "company": "글로벌테크놀로지",
-  "listing_date": "2026-09-29",
-  "period": "1개월",
-  "release_date": "2026-10-29",
-  "tradable_date": "2026-10-29",
-  "ratio_pct": 9.77,
-  "shares": 1913156
- },
- {
-  "company": "빅웨이브로보틱스",
-  "listing_date": "2026-09-29",
-  "period": "1개월",
-  "release_date": "2026-10-29",
-  "tradable_date": "2026-10-29",
-  "ratio_pct": 9.41,
-  "shares": 966116
- },
- {
   "company": "신한제18호스팩",
   "listing_date": "2026-04-30",
   "period": "6개월",
