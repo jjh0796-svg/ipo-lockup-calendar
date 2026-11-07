@@ -1,41 +1,5 @@
 [
  {
-  "company": "신한제18호스팩",
-  "listing_date": "2026-04-30",
-  "period": "6개월",
-  "release_date": "2026-10-30",
-  "tradable_date": "2026-10-30",
-  "ratio_pct": 13.92,
-  "shares": 781813
- },
- {
-  "company": "멜콘",
-  "listing_date": "2026-10-15",
-  "period": "15일",
-  "release_date": "2026-10-30",
-  "tradable_date": "2026-10-30",
-  "ratio_pct": 5.99,
-  "shares": 753847
- },
- {
-  "company": "진코스텍",
-  "listing_date": "2026-10-15",
-  "period": "15일",
-  "release_date": "2026-10-30",
-  "tradable_date": "2026-10-30",
-  "ratio_pct": 2.49,
-  "shares": 94117
- },
- {
-  "company": "덕산넵코어스",
-  "listing_date": "2026-09-30",
-  "period": "1개월",
-  "release_date": "2026-10-30",
-  "tradable_date": "2026-10-30",
-  "ratio_pct": 0.91,
-  "shares": 171508
- },
- {
   "company": "브릴스",
   "listing_date": "2026-10-01",
   "period": "1개월",
