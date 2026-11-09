@@ -1,14 +1,5 @@
 [
  {
-  "company": "브릴스",
-  "listing_date": "2026-10-01",
-  "period": "1개월",
-  "release_date": "2026-11-01",
-  "tradable_date": "2026-11-02",
-  "ratio_pct": 7.39,
-  "shares": 840204
- },
- {
   "company": "스카이랩스",
   "listing_date": "2026-09-04",
   "period": "2개월",
