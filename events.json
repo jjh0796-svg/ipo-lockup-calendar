@@ -198,6 +198,15 @@
   "shares": 806301
  },
  {
+  "company": "동원파츠",
+  "listing_date": "2026-11-10",
+  "period": "15일",
+  "release_date": "2026-11-25",
+  "tradable_date": "2026-11-25",
+  "ratio_pct": 5.16,
+  "shares": 478593
+ },
+ {
   "company": "해치텍",
   "listing_date": "2026-08-25",
   "period": "3개월",
@@ -286,6 +295,15 @@
   "tradable_date": "2026-12-08",
   "ratio_pct": 5.67,
   "shares": 803672
+ },
+ {
+  "company": "동원파츠",
+  "listing_date": "2026-11-10",
+  "period": "1개월",
+  "release_date": "2026-12-10",
+  "tradable_date": "2026-12-10",
+  "ratio_pct": 6.73,
+  "shares": 624030
  },
  {
   "company": "엔에이치스팩34호",
@@ -441,6 +459,15 @@
   "shares": 296514
  },
  {
+  "company": "동원파츠",
+  "listing_date": "2026-11-10",
+  "period": "2개월",
+  "release_date": "2027-01-10",
+  "tradable_date": "2027-01-11",
+  "ratio_pct": 2.99,
+  "shares": 277056
+ },
+ {
   "company": "레메디",
   "listing_date": "2026-07-13",
   "period": "6개월",
@@ -556,6 +583,15 @@
   "tradable_date": "2027-02-04",
   "ratio_pct": 1.8,
   "shares": 250906
+ },
+ {
+  "company": "동원파츠",
+  "listing_date": "2026-11-10",
+  "period": "3개월",
+  "release_date": "2027-02-10",
+  "tradable_date": "2027-02-10",
+  "ratio_pct": 3.37,
+  "shares": 312864
  },
  {
   "company": "딜리셔스",
@@ -772,5 +808,14 @@
   "tradable_date": "2027-05-04",
   "ratio_pct": 1.49,
   "shares": 207126
+ },
+ {
+  "company": "동원파츠",
+  "listing_date": "2026-11-10",
+  "period": "6개월",
+  "release_date": "2027-05-10",
+  "tradable_date": "2027-05-10",
+  "ratio_pct": 1.93,
+  "shares": 178604
  }
 ]
