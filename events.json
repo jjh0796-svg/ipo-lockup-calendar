@@ -216,6 +216,15 @@
   "shares": 156673
  },
  {
+  "company": "바로팜",
+  "listing_date": "2026-11-11",
+  "period": "15일",
+  "release_date": "2026-11-26",
+  "tradable_date": "2026-11-26",
+  "ratio_pct": 0.04,
+  "shares": 5360
+ },
+ {
   "company": "티앤이코리아",
   "listing_date": "2026-10-29",
   "period": "1개월",
@@ -313,6 +322,15 @@
   "tradable_date": "2026-12-10",
   "ratio_pct": 3.87,
   "shares": 350000
+ },
+ {
+  "company": "바로팜",
+  "listing_date": "2026-11-11",
+  "period": "1개월",
+  "release_date": "2026-12-11",
+  "tradable_date": "2026-12-11",
+  "ratio_pct": 27.16,
+  "shares": 3244703
  },
  {
   "company": "메리츠제2호스팩",
@@ -468,6 +486,15 @@
   "shares": 277056
  },
  {
+  "company": "바로팜",
+  "listing_date": "2026-11-11",
+  "period": "2개월",
+  "release_date": "2027-01-11",
+  "tradable_date": "2027-01-11",
+  "ratio_pct": 0.39,
+  "shares": 46948
+ },
+ {
   "company": "레메디",
   "listing_date": "2026-07-13",
   "period": "6개월",
@@ -592,6 +619,15 @@
   "tradable_date": "2027-02-10",
   "ratio_pct": 3.37,
   "shares": 312864
+ },
+ {
+  "company": "바로팜",
+  "listing_date": "2026-11-11",
+  "period": "3개월",
+  "release_date": "2027-02-11",
+  "tradable_date": "2027-02-11",
+  "ratio_pct": 0.45,
+  "shares": 53400
  },
  {
   "company": "딜리셔스",
@@ -817,5 +853,14 @@
   "tradable_date": "2027-05-10",
   "ratio_pct": 1.93,
   "shares": 178604
+ },
+ {
+  "company": "바로팜",
+  "listing_date": "2026-11-11",
+  "period": "6개월",
+  "release_date": "2027-05-11",
+  "tradable_date": "2027-05-11",
+  "ratio_pct": 0.98,
+  "shares": 117495
  }
 ]
