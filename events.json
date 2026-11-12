@@ -1,23 +1,5 @@
 [
  {
-  "company": "스카이랩스",
-  "listing_date": "2026-09-04",
-  "period": "2개월",
-  "release_date": "2026-11-04",
-  "tradable_date": "2026-11-04",
-  "ratio_pct": 3.23,
-  "shares": 604559
- },
- {
-  "company": "엘리스그룹",
-  "listing_date": "2026-10-20",
-  "period": "15일",
-  "release_date": "2026-11-04",
-  "tradable_date": "2026-11-04",
-  "ratio_pct": 3.04,
-  "shares": 337383
- },
- {
   "company": "엠에스바이오",
   "listing_date": "2026-10-22",
   "period": "15일",
@@ -225,6 +207,15 @@
   "shares": 5360
  },
  {
+  "company": "넥스아이",
+  "listing_date": "2026-11-12",
+  "period": "15일",
+  "release_date": "2026-11-27",
+  "tradable_date": "2026-11-27",
+  "ratio_pct": 0.34,
+  "shares": 155000
+ },
+ {
   "company": "티앤이코리아",
   "listing_date": "2026-10-29",
   "period": "1개월",
@@ -331,6 +322,15 @@
   "tradable_date": "2026-12-11",
   "ratio_pct": 27.16,
   "shares": 3244703
+ },
+ {
+  "company": "넥스아이",
+  "listing_date": "2026-11-12",
+  "period": "1개월",
+  "release_date": "2026-12-12",
+  "tradable_date": "2026-12-14",
+  "ratio_pct": 23.23,
+  "shares": 10631535
  },
  {
   "company": "메리츠제2호스팩",
@@ -495,6 +495,15 @@
   "shares": 46948
  },
  {
+  "company": "넥스아이",
+  "listing_date": "2026-11-12",
+  "period": "2개월",
+  "release_date": "2027-01-12",
+  "tradable_date": "2027-01-12",
+  "ratio_pct": 3.47,
+  "shares": 1589576
+ },
+ {
   "company": "레메디",
   "listing_date": "2026-07-13",
   "period": "6개월",
@@ -628,6 +637,15 @@
   "tradable_date": "2027-02-11",
   "ratio_pct": 0.45,
   "shares": 53400
+ },
+ {
+  "company": "넥스아이",
+  "listing_date": "2026-11-12",
+  "period": "3개월",
+  "release_date": "2027-02-12",
+  "tradable_date": "2027-02-12",
+  "ratio_pct": 9.13,
+  "shares": 4174811
  },
  {
   "company": "딜리셔스",
@@ -862,5 +880,14 @@
   "tradable_date": "2027-05-11",
   "ratio_pct": 0.98,
   "shares": 117495
+ },
+ {
+  "company": "넥스아이",
+  "listing_date": "2026-11-12",
+  "period": "6개월",
+  "release_date": "2027-05-12",
+  "tradable_date": "2027-05-12",
+  "ratio_pct": 0.44,
+  "shares": 202831
  }
 ]
