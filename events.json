@@ -1,14 +1,5 @@
 [
  {
-  "company": "디티에스",
-  "listing_date": "2026-10-23",
-  "period": "15일",
-  "release_date": "2026-11-07",
-  "tradable_date": "2026-11-09",
-  "ratio_pct": 4.23,
-  "shares": 628360
- },
- {
   "company": "딜리셔스",
   "listing_date": "2026-08-12",
   "period": "3개월",
