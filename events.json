@@ -234,6 +234,15 @@
   "shares": 777017
  },
  {
+  "company": "영광와이케이엠씨",
+  "listing_date": "2026-11-16",
+  "period": "15일",
+  "release_date": "2026-12-01",
+  "tradable_date": "2026-12-01",
+  "ratio_pct": 5.46,
+  "shares": 789085
+ },
+ {
   "company": "래블업",
   "listing_date": "2026-11-03",
   "period": "1개월",
@@ -313,6 +322,15 @@
   "tradable_date": "2026-12-14",
   "ratio_pct": 23.23,
   "shares": 10631535
+ },
+ {
+  "company": "영광와이케이엠씨",
+  "listing_date": "2026-11-16",
+  "period": "1개월",
+  "release_date": "2026-12-16",
+  "tradable_date": "2026-12-16",
+  "ratio_pct": 12.52,
+  "shares": 1810204
  },
  {
   "company": "메리츠제2호스팩",
@@ -513,6 +531,15 @@
   "shares": 296616
  },
  {
+  "company": "영광와이케이엠씨",
+  "listing_date": "2026-11-16",
+  "period": "2개월",
+  "release_date": "2027-01-16",
+  "tradable_date": "2027-01-18",
+  "ratio_pct": 4.75,
+  "shares": 686861
+ },
+ {
   "company": "엘리스그룹",
   "listing_date": "2026-10-20",
   "period": "3개월",
@@ -637,6 +664,15 @@
   "tradable_date": "2027-02-12",
   "ratio_pct": 2.85,
   "shares": 623232
+ },
+ {
+  "company": "영광와이케이엠씨",
+  "listing_date": "2026-11-16",
+  "period": "3개월",
+  "release_date": "2027-02-16",
+  "tradable_date": "2027-02-16",
+  "ratio_pct": 1.31,
+  "shares": 189039
  },
  {
   "company": "인제니아테라퓨틱스",
@@ -871,5 +907,14 @@
   "tradable_date": "2027-05-12",
   "ratio_pct": 0.44,
   "shares": 202831
+ },
+ {
+  "company": "영광와이케이엠씨",
+  "listing_date": "2026-11-16",
+  "period": "6개월",
+  "release_date": "2027-05-16",
+  "tradable_date": "2027-05-17",
+  "ratio_pct": 2.01,
+  "shares": 290329
  }
 ]
