@@ -243,6 +243,15 @@
   "shares": 789085
  },
  {
+  "company": "옵토닉스",
+  "listing_date": "2026-11-17",
+  "period": "15일",
+  "release_date": "2026-12-02",
+  "tradable_date": "2026-12-02",
+  "ratio_pct": 6.25,
+  "shares": 597678
+ },
+ {
   "company": "래블업",
   "listing_date": "2026-11-03",
   "period": "1개월",
@@ -331,6 +340,15 @@
   "tradable_date": "2026-12-16",
   "ratio_pct": 12.52,
   "shares": 1810204
+ },
+ {
+  "company": "옵토닉스",
+  "listing_date": "2026-11-17",
+  "period": "1개월",
+  "release_date": "2026-12-17",
+  "tradable_date": "2026-12-17",
+  "ratio_pct": 5.11,
+  "shares": 488257
  },
  {
   "company": "메리츠제2호스팩",
@@ -540,6 +558,15 @@
   "shares": 686861
  },
  {
+  "company": "옵토닉스",
+  "listing_date": "2026-11-17",
+  "period": "2개월",
+  "release_date": "2027-01-17",
+  "tradable_date": "2027-01-18",
+  "ratio_pct": 1.27,
+  "shares": 121233
+ },
+ {
   "company": "엘리스그룹",
   "listing_date": "2026-10-20",
   "period": "3개월",
@@ -673,6 +700,15 @@
   "tradable_date": "2027-02-16",
   "ratio_pct": 1.31,
   "shares": 189039
+ },
+ {
+  "company": "옵토닉스",
+  "listing_date": "2026-11-17",
+  "period": "3개월",
+  "release_date": "2027-02-17",
+  "tradable_date": "2027-02-17",
+  "ratio_pct": 2.35,
+  "shares": 224250
  },
  {
   "company": "인제니아테라퓨틱스",
@@ -916,5 +952,14 @@
   "tradable_date": "2027-05-17",
   "ratio_pct": 2.01,
   "shares": 290329
+ },
+ {
+  "company": "옵토닉스",
+  "listing_date": "2026-11-17",
+  "period": "6개월",
+  "release_date": "2027-05-17",
+  "tradable_date": "2027-05-17",
+  "ratio_pct": 9.18,
+  "shares": 878067
  }
 ]
