@@ -261,6 +261,15 @@
   "shares": 754678
  },
  {
+  "company": "에이엘로봇",
+  "listing_date": "2026-11-18",
+  "period": "15일",
+  "release_date": "2026-12-03",
+  "tradable_date": "2026-12-03",
+  "ratio_pct": 2.24,
+  "shares": 269294
+ },
+ {
   "company": "스카이랩스",
   "listing_date": "2026-09-04",
   "period": "3개월",
@@ -349,6 +358,15 @@
   "tradable_date": "2026-12-17",
   "ratio_pct": 5.11,
   "shares": 488257
+ },
+ {
+  "company": "에이엘로봇",
+  "listing_date": "2026-11-18",
+  "period": "1개월",
+  "release_date": "2026-12-18",
+  "tradable_date": "2026-12-18",
+  "ratio_pct": 7.33,
+  "shares": 883492
  },
  {
   "company": "메리츠제2호스팩",
@@ -567,6 +585,15 @@
   "shares": 121233
  },
  {
+  "company": "에이엘로봇",
+  "listing_date": "2026-11-18",
+  "period": "2개월",
+  "release_date": "2027-01-18",
+  "tradable_date": "2027-01-18",
+  "ratio_pct": 5.86,
+  "shares": 705782
+ },
+ {
   "company": "엘리스그룹",
   "listing_date": "2026-10-20",
   "period": "3개월",
@@ -709,6 +736,15 @@
   "tradable_date": "2027-02-17",
   "ratio_pct": 2.35,
   "shares": 224250
+ },
+ {
+  "company": "에이엘로봇",
+  "listing_date": "2026-11-18",
+  "period": "3개월",
+  "release_date": "2027-02-18",
+  "tradable_date": "2027-02-18",
+  "ratio_pct": 6.53,
+  "shares": 786394
  },
  {
   "company": "인제니아테라퓨틱스",
@@ -961,5 +997,14 @@
   "tradable_date": "2027-05-17",
   "ratio_pct": 9.18,
   "shares": 878067
+ },
+ {
+  "company": "에이엘로봇",
+  "listing_date": "2026-11-18",
+  "period": "6개월",
+  "release_date": "2027-05-18",
+  "tradable_date": "2027-05-18",
+  "ratio_pct": 2.67,
+  "shares": 321849
  }
 ]
