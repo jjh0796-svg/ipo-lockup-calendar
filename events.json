@@ -1,14 +1,5 @@
 [
  {
-  "company": "딜리셔스",
-  "listing_date": "2026-08-12",
-  "period": "3개월",
-  "release_date": "2026-11-12",
-  "tradable_date": "2026-11-12",
-  "ratio_pct": 11.11,
-  "shares": 2428648
- },
- {
   "company": "티앤이코리아",
   "listing_date": "2026-10-29",
   "period": "15일",
@@ -297,6 +288,15 @@
   "shares": 913424
  },
  {
+  "company": "하나에어로다이내믹스",
+  "listing_date": "2026-11-20",
+  "period": "15일",
+  "release_date": "2026-12-05",
+  "tradable_date": "2026-12-07",
+  "ratio_pct": 9.56,
+  "shares": 1694200
+ },
+ {
   "company": "피스피스스튜디오",
   "listing_date": "2026-06-08",
   "period": "6개월",
@@ -376,6 +376,15 @@
   "tradable_date": "2026-12-21",
   "ratio_pct": 3.31,
   "shares": 240000
+ },
+ {
+  "company": "하나에어로다이내믹스",
+  "listing_date": "2026-11-20",
+  "period": "1개월",
+  "release_date": "2026-12-20",
+  "tradable_date": "2026-12-21",
+  "ratio_pct": 0.51,
+  "shares": 91275
  },
  {
   "company": "네오사피엔스",
@@ -594,6 +603,15 @@
   "shares": 705782
  },
  {
+  "company": "하나에어로다이내믹스",
+  "listing_date": "2026-11-20",
+  "period": "2개월",
+  "release_date": "2027-01-20",
+  "tradable_date": "2027-01-20",
+  "ratio_pct": 10.0,
+  "shares": 1772997
+ },
+ {
   "company": "엘리스그룹",
   "listing_date": "2026-10-20",
   "period": "3개월",
@@ -754,6 +772,15 @@
   "tradable_date": "2027-02-18",
   "ratio_pct": 1.24,
   "shares": 611391
+ },
+ {
+  "company": "하나에어로다이내믹스",
+  "listing_date": "2026-11-20",
+  "period": "3개월",
+  "release_date": "2027-02-20",
+  "tradable_date": "2027-02-22",
+  "ratio_pct": 1.46,
+  "shares": 259132
  },
  {
   "company": "기도산업",
@@ -1006,5 +1033,14 @@
   "tradable_date": "2027-05-18",
   "ratio_pct": 2.67,
   "shares": 321849
+ },
+ {
+  "company": "하나에어로다이내믹스",
+  "listing_date": "2026-11-20",
+  "period": "6개월",
+  "release_date": "2027-05-20",
+  "tradable_date": "2027-05-20",
+  "ratio_pct": 10.95,
+  "shares": 1941856
  }
 ]
