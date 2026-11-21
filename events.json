@@ -1,23 +1,5 @@
 [
  {
-  "company": "티앤이코리아",
-  "listing_date": "2026-10-29",
-  "period": "15일",
-  "release_date": "2026-11-13",
-  "tradable_date": "2026-11-13",
-  "ratio_pct": 5.16,
-  "shares": 585550
- },
- {
-  "company": "케이앤에스아이앤씨",
-  "listing_date": "2026-08-13",
-  "period": "3개월",
-  "release_date": "2026-11-13",
-  "tradable_date": "2026-11-13",
-  "ratio_pct": 1.78,
-  "shares": 183110
- },
- {
   "company": "인텔리빅스",
   "listing_date": "2026-10-30",
   "period": "15일",
