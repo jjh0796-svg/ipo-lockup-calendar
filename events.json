@@ -351,6 +351,15 @@
   "shares": 245563
  },
  {
+  "company": "엠비디",
+  "listing_date": "2026-11-24",
+  "period": "1개월",
+  "release_date": "2026-12-24",
+  "tradable_date": "2026-12-24",
+  "ratio_pct": 31.68,
+  "shares": 4537926
+ },
+ {
   "company": "티앤이코리아",
   "listing_date": "2026-10-29",
   "period": "2개월",
@@ -576,6 +585,15 @@
   "shares": 1150712
  },
  {
+  "company": "엠비디",
+  "listing_date": "2026-11-24",
+  "period": "2개월",
+  "release_date": "2027-01-24",
+  "tradable_date": "2027-01-25",
+  "ratio_pct": 8.72,
+  "shares": 1248860
+ },
+ {
   "company": "에이치엘지노믹스",
   "listing_date": "2026-07-24",
   "period": "6개월",
@@ -727,6 +745,15 @@
   "tradable_date": "2027-02-22",
   "ratio_pct": 9.06,
   "shares": 529557
+ },
+ {
+  "company": "엠비디",
+  "listing_date": "2026-11-24",
+  "period": "3개월",
+  "release_date": "2027-02-24",
+  "tradable_date": "2027-02-24",
+  "ratio_pct": 3.33,
+  "shares": 476689
  },
  {
   "company": "니어스랩",
