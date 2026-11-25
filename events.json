@@ -1,14 +1,5 @@
 [
  {
-  "company": "영광",
-  "listing_date": "2026-11-02",
-  "period": "15일",
-  "release_date": "2026-11-17",
-  "tradable_date": "2026-11-17",
-  "ratio_pct": 2.46,
-  "shares": 222850
- },
- {
   "company": "인제니아테라퓨틱스",
   "listing_date": "2026-08-18",
   "period": "3개월",
