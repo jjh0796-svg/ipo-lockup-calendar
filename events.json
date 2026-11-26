@@ -1,23 +1,5 @@
 [
  {
-  "company": "인제니아테라퓨틱스",
-  "listing_date": "2026-08-18",
-  "period": "3개월",
-  "release_date": "2026-11-18",
-  "tradable_date": "2026-11-18",
-  "ratio_pct": 4.42,
-  "shares": 2185459
- },
- {
-  "company": "래블업",
-  "listing_date": "2026-11-03",
-  "period": "15일",
-  "release_date": "2026-11-18",
-  "tradable_date": "2026-11-18",
-  "ratio_pct": 1.1,
-  "shares": 160000
- },
- {
   "company": "이에스티",
   "listing_date": "2026-11-04",
   "period": "15일",
