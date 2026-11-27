@@ -1,14 +1,5 @@
 [
  {
-  "company": "이에스티",
-  "listing_date": "2026-11-04",
-  "period": "15일",
-  "release_date": "2026-11-19",
-  "tradable_date": "2026-11-19",
-  "ratio_pct": 0.02,
-  "shares": 3149
- },
- {
   "company": "마키나락스",
   "listing_date": "2026-05-20",
   "period": "6개월",
