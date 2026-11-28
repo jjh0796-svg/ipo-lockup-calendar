@@ -1,23 +1,5 @@
 [
  {
-  "company": "마키나락스",
-  "listing_date": "2026-05-20",
-  "period": "6개월",
-  "release_date": "2026-11-20",
-  "tradable_date": "2026-11-20",
-  "ratio_pct": 13.71,
-  "shares": 2406900
- },
- {
-  "company": "엘리스그룹",
-  "listing_date": "2026-10-20",
-  "period": "1개월",
-  "release_date": "2026-11-20",
-  "tradable_date": "2026-11-20",
-  "ratio_pct": 12.27,
-  "shares": 1363805
- },
- {
   "company": "네오사피엔스",
   "listing_date": "2026-09-21",
   "period": "2개월",
